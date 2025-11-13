@@ -82,14 +82,14 @@ DEINE AUFGABEN:
 
 * **SG01–SG13 – Hauptgebäude** — [Salzufer 17–19, 10587 Berlin](https://maps.app.goo.gl/tCAhJmvSvjVN59nDA)
 
----
+
 
 ### 🧪 Campus Wedding (Ackerstraße & TIB-Gelände)
 
 * **ACK – Ackerstraße 76** — [Ackerstraße 76, 13355 Berlin](https://www.google.com/maps/search/?api=1&query=Ackerstra%C3%9Fe%2076%2C%2013355%20Berlin)
 * **TIB10 – TIB25 (Reihe von Gebäuden)** — [Gustav-Meyer-Allee 25, 13355 Berlin](https://maps.app.goo.gl/6V11o49xge2rDw3i7)
 
----
+
 
 ### 🧬 Campus Seestraße
 
@@ -106,23 +106,23 @@ DEINE AUFGABEN:
 -   [Campus Wedding, Familienrelevante Orte  (pdf, 1.24 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Wedding_Familienorte.pdf)
 
 
-LERNRÄUME
-| Gebäude  | Adresse                 | Raum                       | Plätze        | Öffnungszeiten |
-| -------- | ----------------------- | -------------------------- | ------------- | -------------- |
-| **BH-N** | Ernst-Reuter-Platz 1    | Raum 0002                  | ca. 54 Plätze | 24/7           |
-| **E**    | Einsteinufer 19         | Raum 027                   | 38 Plätze     | Mo–Fr 6–22 Uhr |
-| **EB**   | Straße des 17. Juni 145 | Raum 317 C „Weltraum“      | ca. 42 Plätze | 24/7           |
-|          |                         | Raum 302 B „Wiwi Café“     | ca. 30 Plätze | 24/7           |
-|          |                         | Raum 327 „Voigt-Sass-Saal“ | ca. 22 Plätze | 24/7           |
-|          |                         | Raum 226 A–C               | ca. 60 Plätze | 24/7           |
-| **E-N**  | Einsteinufer 17         | Raum 025                   | –             | 24/7           |
-| **EW**   | Hardenbergstraße 36     | –                          | ca. 28 Plätze | 24/7           |
-| **FH**   | Fraunhoferstraße 33–36  | Raum 310                   | ca. 42 Plätze | Mo–Fr 8–22 Uhr |
-| **H**    | Straße des 17. Juni 135 | Raum 3026                  | ca. 52 Plätze | 24/7           |
-| **MA**   | Straße des 17. Juni 136 | Raum 136                   | 12 Plätze     | –              |
-| **MAR**  | Marchstraße 23          | Raum 003                   | ca. 50 Plätze | 24/7           |
+### Lernräume
+| Gebäude  | Adresse                 | Raum                       | Öffnungszeiten |
+| -------- | ----------------------- | -------------------------- | -------------- |
+| **BH-N** | Ernst-Reuter-Platz 1    | Raum 0002                  | 24/7           |
+| **E**    | Einsteinufer 19         | Raum 027                   | Mo–Fr 6–22 Uhr |
+| **EB**   | Straße des 17. Juni 145 | Raum 317 C „Weltraum“      | 24/7           |
+|          |                         | Raum 302 B „Wiwi Café“     | 24/7           |
+|          |                         | Raum 327 „Voigt-Sass-Saal“ | 24/7           |
+|          |                         | Raum 226 A–C               | 24/7           |
+| **E-N**  | Einsteinufer 17         | Raum 025                   | 24/7           |
+| **EW**   | Hardenbergstraße 36     | –                          | 24/7           |
+| **FH**   | Fraunhoferstraße 33–36  | Raum 310                   | Mo–Fr 8–22 Uhr |
+| **H**    | Straße des 17. Juni 135 | Raum 3026                  | 24/7           |
+| **MA**   | Straße des 17. Juni 136 | Raum 136                   | –              |
+| **MAR**  | Marchstraße 23          | Raum 003                   | 24/7           |
 
-GEMEINSCHAFTSRÄUME
+### Gemeinschaftsräume
 | Gebäude   | Adresse                                    | Raumnummer   |
 | --------- | ------------------------------------------ | ------------ |
 | **A**     | Straße des 17. Juni 152                    | Raum 013     |
@@ -137,31 +137,31 @@ GEMEINSCHAFTSRÄUME
 | **TIB**   | Gustav Meyer Allee 25 – „Oase“             | Raum 552     |
 | **Z**     | Straße des 17. Juni 135 – „Erdreich“       | Raum 002     |
 
-ASTA-Büro
+### ASTA-Büro
 | Gebäude | Adresse                 | Raum     |
 | ------- | ----------------------- | -------- |
 | **TK**  | Straße des 17. Juni 135 | Raum 113 |
 
-🚲 FAHRRAD-WERKSTATT
+### Fahrrad-Werkstatt
 | Gebäude    | Adresse         | Raum     |
 | ---------- | --------------- | -------- |
 | **HFT-TA** | Einsteinufer 25 | Raum K27 |
 
 
-KOSTENLOSES ESSEN FÜR KINDER UNTER 6
+### Kostenloses Essen für Kinder unter 6
 | Ort       | Adresse             | Hinweis                                |
 | --------- | ------------------- | -------------------------------------  |
 | **Mensa** | Hardenbergstraße 34 | In der Mensa für Kinder unter 6 Jahren |
 
 
-KINDERGARTEN
+### Kindergarten
 
 | Gebäude | Adresse           |
 | ------- | ----------------- |
 | **BEL** | Marchstraße 6 & 8 |
 
 
-FAMILIENZIMMER
+### Familienzimmer
 
 | Gebäude  | Adresse                                       | Raum        |
 | -------- | --------------------------------------------- | -------     |
@@ -176,7 +176,7 @@ FAMILIENZIMMER
 | **TIB**  | Gustav-Meyer-Allee 25, TIB 13b 7              | Z 210       |
 
 
-Wickelpunkt / Changing Table
+### Wickelräume
 | Gebäude    | Adresse                                  | Raum                                               |
 | ---------- | ---------------------------------------- | -------------------------------------------------- |
 | **A-H**    | Straße des 17. Juni 152                  | im Foyer / in the foyer                            |
