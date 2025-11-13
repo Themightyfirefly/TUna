@@ -1,17 +1,20 @@
-﻿# Campusplan links
+﻿# Systemprompt
+DEINE AUFGABEN:
+1. Hilf Nutzern, Gebäude auf dem Campus zu finden.
+2. Gib, falls verfügbar, passende Google-Maps-Links oder Campusplan-Links aus der hinterlegten Datei aus.
+3. Beschreibe die Standorte und deren Zweck (z. B. Hörsäle, Institute, Mensen, Bibliotheken), sofern diese Informationen in der Datei enthalten sind.
+4. Wenn ein Nutzer nach einem Weg fragt (z. B. „Wie komme ich von HFT zu MA?“), gib eine präzise, einfache Wegbeschreibung mit dem passenden Google-Maps-Link.
+5. Wenn ein Nutzer nach einem Plan fragt (z. B. „Zeig mir den Plan von Campus Charlottenburg“), biete den passenden Campusplan-Link an.
+6. Falls du keine genaue Übereinstimmung findest, biete die Campuspläne an.
+---
+
+# Campusplan links
 
 ## Campuspläne
 -  [Campus Charlottenburg (zentraler Hauptcampus)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Charlottenburg.pdf)
 -   [Campus Salzufer (Severin-Gelände)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Salzufer.pdf)
 -   [Campus Wedding (Ackerstraße & TIB-Gelände) ](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Wedding.pdf)
 -   [Campus Seestraße](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Seestrasse.pdf)
-
-## Spezielle Raumpläne
-
--   [Campus Charlottenburg, Studentische Räume  (pdf, 0.90 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Charlottenburg_StudentischeRaeume.pdf)
--   [Campus Charlottenburg, Familienrelevante Orte  (pdf, 0.92 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Charlottenburg_Familienorte.pdf)
--   [Campus Wedding, Studentische Räume  (pdf, 1.26 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Wedding_StudentischeRaeume.pdf)
--   [Campus Wedding, Familienrelevante Orte  (pdf, 1.24 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Wedding_Familienorte.pdf)
 
 
 ## Mobilitätspläne
@@ -26,7 +29,7 @@
 
 ---
 
-## 🏛 Campus Charlottenburg (zentraler Hauptcampus)
+### 🏛 Campus Charlottenburg (zentraler Hauptcampus)
 
 * **A – Architekturgebäude** — [Straße des 17. Juni 152, 10623 Berlin](https://www.google.com/maps/search/?api=1&query=Stra%C3%9Fe%20des%2017.%20Juni%20152%2C%2010623%20Berlin)
 * **AM – Alte Mineralogie** — [Hardenbergstraße 38, 10623 Berlin](https://maps.app.goo.gl/hrqYmNAYfMqiQgFJ6)
@@ -58,7 +61,7 @@
 * **KWT – Kraftwerkstechnik & Apparatebau** — [Fasanenstraße 1, 10623 Berlin](https://maps.app.goo.gl/QjCxP8YgDRxK9Qm67)
 * **L – Lebensmittelchemie** — [Müller-Breslau-Straße 10, 10623 Berlin](https://www.google.com/maps/search/?api=1&query=M%C3%BCller-Breslau-Stra%C3%9Fe%2010%2C%2010623%20Berlin)
 * **M – Mechanik-Gebäudeteil** — [Straße des 17. Juni 135, 10623 Berlin](https://maps.app.goo.gl/tACsKT78pb3SUiHBA)
-* **MA – Mathematik-Gebäude** — [Straße des 17. Juni 136, 10623 Berlin](https://maps.app.goo.gl/YzvpTqZwucWq89VB7)
+* **MATH – Mathematik-Gebäude** — [Straße des 17. Juni 136, 10623 Berlin](https://maps.app.goo.gl/YzvpTqZwucWq89VB7)
 * **MAR – Gebäude Marchstraße 23** — [Marchstraße 23, 10587 Berlin](https://www.google.com/maps/search/?api=1&query=Marchstra%C3%9Fe%2023%2C%2010587%20Berlin)
 * **MS – Mechanische Schwingungslehre** — [Einsteinufer 5, 10587 Berlin](https://www.google.com/maps/search/?api=1&query=Einsteinufer%205%2C%2010587%20Berlin)
 * **PC – Physikalische Chemie** — [Straße des 17. Juni 135, 10623 Berlin](https://maps.app.goo.gl/wuEabJ9wNq5goQ2JA)
@@ -75,22 +78,121 @@
 
 ---
 
-## ⚙️ Campus Salzufer (Severin-Gelände)
+### ⚙️ Campus Salzufer (Severin-Gelände)
 
 * **SG01–SG13 – Hauptgebäude** — [Salzufer 17–19, 10587 Berlin](https://maps.app.goo.gl/tCAhJmvSvjVN59nDA)
 
 ---
 
-## 🧪 Campus Wedding (Ackerstraße & TIB-Gelände)
+### 🧪 Campus Wedding (Ackerstraße & TIB-Gelände)
 
 * **ACK – Ackerstraße 76** — [Ackerstraße 76, 13355 Berlin](https://www.google.com/maps/search/?api=1&query=Ackerstra%C3%9Fe%2076%2C%2013355%20Berlin)
 * **TIB10 – TIB25 (Reihe von Gebäuden)** — [Gustav-Meyer-Allee 25, 13355 Berlin](https://maps.app.goo.gl/6V11o49xge2rDw3i7)
 
 ---
 
-## 🧬 Campus Seestraße
+### 🧬 Campus Seestraße
 
 * **GG – Gärungsgewerbe / Biotechnologie (Alt- & Neubau)** — [Seestraße 13, 13353 Berlin](https://www.google.com/maps/search/?api=1&query=Seestra%C3%9Fe%2013%2C%2013353%20Berlin)
 * **SIM – Simulierter Mensch (ZIB + TU Berlin)** — [Amrumer Straße 31, 13353 Berlin](https://maps.app.goo.gl/NVSqKhWdSigEhNdUA)
 
 ---
+
+## Spezielle Raumpläne
+
+-   [Campus Charlottenburg, Studentische Räume  (pdf, 0.90 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Charlottenburg_StudentischeRaeume.pdf)
+-   [Campus Charlottenburg, Familienrelevante Orte  (pdf, 0.92 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Charlottenburg_Familienorte.pdf)
+-   [Campus Wedding, Studentische Räume  (pdf, 1.26 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Wedding_StudentischeRaeume.pdf)
+-   [Campus Wedding, Familienrelevante Orte  (pdf, 1.24 MB)](https://www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Standorte/Campusplaene/TUBerlin_Campus_Wedding_Familienorte.pdf)
+
+
+LERNRÄUME
+| Gebäude  | Adresse                 | Raum                       | Plätze        | Öffnungszeiten |
+| -------- | ----------------------- | -------------------------- | ------------- | -------------- |
+| **BH-N** | Ernst-Reuter-Platz 1    | Raum 0002                  | ca. 54 Plätze | 24/7           |
+| **E**    | Einsteinufer 19         | Raum 027                   | 38 Plätze     | Mo–Fr 6–22 Uhr |
+| **EB**   | Straße des 17. Juni 145 | Raum 317 C „Weltraum“      | ca. 42 Plätze | 24/7           |
+|          |                         | Raum 302 B „Wiwi Café“     | ca. 30 Plätze | 24/7           |
+|          |                         | Raum 327 „Voigt-Sass-Saal“ | ca. 22 Plätze | 24/7           |
+|          |                         | Raum 226 A–C               | ca. 60 Plätze | 24/7           |
+| **E-N**  | Einsteinufer 17         | Raum 025                   | –             | 24/7           |
+| **EW**   | Hardenbergstraße 36     | –                          | ca. 28 Plätze | 24/7           |
+| **FH**   | Fraunhoferstraße 33–36  | Raum 310                   | ca. 42 Plätze | Mo–Fr 8–22 Uhr |
+| **H**    | Straße des 17. Juni 135 | Raum 3026                  | ca. 52 Plätze | 24/7           |
+| **MA**   | Straße des 17. Juni 136 | Raum 136                   | 12 Plätze     | –              |
+| **MAR**  | Marchstraße 23          | Raum 003                   | ca. 50 Plätze | 24/7           |
+
+GEMEINSCHAFTSRÄUME
+| Gebäude   | Adresse                                    | Raumnummer   |
+| --------- | ------------------------------------------ | ------------ |
+| **A**     | Straße des 17. Juni 152                    | Raum 013     |
+| **B**     | Hardenbergstraße 40 A – „Planwirtschaft“   | Raum 001     |
+| **E**     | Einsteinufer 19 – „Shila“                  | Raum 024–025 |
+| **EB**    | Straße des 17. Juni 145 – „WiWi“           | Raum 012–018 |
+| **EW**    | Hardenbergstraße 36 – „Atomic“             | Raum 021     |
+| **F**     | Marchstraße 12, 12A, 12B, 14 – „Countdown“ | Raum 321     |
+| **FH**    | Fraunhoferstraße 33–36                     | Raum 305     |
+| **SE-RH** | Straße des 17. Juni 135 – „Zwille“         | Raum 008–010 |
+| **TEL**   | Ernst-Reuter-Platz 7 – „Telquel“           | Raum 004     |
+| **TIB**   | Gustav Meyer Allee 25 – „Oase“             | Raum 552     |
+| **Z**     | Straße des 17. Juni 135 – „Erdreich“       | Raum 002     |
+
+ASTA-Büro
+| Gebäude | Adresse                 | Raum     |
+| ------- | ----------------------- | -------- |
+| **TK**  | Straße des 17. Juni 135 | Raum 113 |
+
+🚲 FAHRRAD-WERKSTATT
+| Gebäude    | Adresse         | Raum     |
+| ---------- | --------------- | -------- |
+| **HFT-TA** | Einsteinufer 25 | Raum K27 |
+
+
+KOSTENLOSES ESSEN FÜR KINDER UNTER 6
+| Ort       | Adresse             | Hinweis                                |
+| --------- | ------------------- | -------------------------------------  |
+| **Mensa** | Hardenbergstraße 34 | In der Mensa für Kinder unter 6 Jahren |
+
+
+KINDERGARTEN
+
+| Gebäude | Adresse           |
+| ------- | ----------------- |
+| **BEL** | Marchstraße 6 & 8 |
+
+
+FAMILIENZIMMER
+
+| Gebäude  | Adresse                                       | Raum        |
+| -------- | --------------------------------------------- | -------     |
+| **BIB**  | Fasanenstraße 88, 1. Etage / first floor      | –           |
+| **EB**   | Straße des 17. Juni 145                       | 328–329     |
+| **E-N**  | Einsteinufer 17 (ZECM PC Saal / )             | ZECM PC Hall|
+| **EW**   | Hardenbergstraße 36,                          | 007         |
+| **H**    | Straße des 17. Juni 135, 1111A                | 1111A       |
+| **IMoS** | Fasanenstraße 89, 1004                        | 1004        |
+| **MAR**  | Marchstraße 23, 0.004                         | 0.004       |
+| **MATH** | Fasanenstraße 90                              | –           |
+| **TIB**  | Gustav-Meyer-Allee 25, TIB 13b 7              | Z 210       |
+
+
+Wickelpunkt / Changing Table
+| Gebäude    | Adresse                                  | Raum                                               |
+| ---------- | ---------------------------------------- | -------------------------------------------------- |
+| **A-H**    | Straße des 17. Juni 152                  | im Foyer / in the foyer                            |
+| **B**      | Hardenbergstraße 40A                     | im Anbau EG / in the extension on the ground floor |
+| **BIB**    | Fasanenstraße 88                         | im EG / on the ground floor                        |
+| **EB**     | Straße des 17. Juni 145                  | 305 / 328–329                                      |
+| **E-N**    | Einsteinufer 17 (ZECM PC Saal / Hall)    | –                                                  |
+| **EW**     | Hardenbergstraße 36                      | 007 / 210                                          |
+| **FH**     | Fraunhoferstraße 33–36                   | 317                                                |
+| **H**      | Straße des 17. Juni 135                  | 0100 / 0069 / 0006 / 1002                          |
+| **HFT-TA** | Einsteinufer 25                          | 311                                                |
+| **IMoS**   | Fasanenstraße 89                         | 1007                                               |
+| **MA**     | Straße des 17. Juni 136                  | 161                                                |
+| **MAR**    | Marchstraße 23                           | 0.004                                              |
+| **MATH**   | Fasanenstraße 90                         | –                                                  |
+| **Mensa**  | Hardenbergstraße 34                      | Foyer                                              |
+| **TEL**    | Ernst-Reuter-Platz 7                     | im EG / on the ground floor                        |
+| **TK**     | Straße des 17. Juni 135                  | im EG / on the ground floor                        |
+| **TIB**    | Gustav-Meyer-Allee 25, TIB 13b 7         | Z 210                                              |
