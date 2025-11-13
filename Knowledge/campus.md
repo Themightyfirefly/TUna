@@ -123,7 +123,7 @@ DEINE AUFGABEN:
 | **MAR**  | Marchstraße 23          | Raum 003                   | 24/7           |
 
 ### Gemeinschaftsräume
-| Gebäude   | Adresse                                    | Raumnummer   |
+| Gebäude   | Adresse                                    | Raum         |
 | --------- | ------------------------------------------ | ------------ |
 | **A**     | Straße des 17. Juni 152                    | Raum 013     |
 | **B**     | Hardenbergstraße 40 A – „Planwirtschaft“   | Raum 001     |
