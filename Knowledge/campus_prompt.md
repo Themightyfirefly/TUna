@@ -30,7 +30,7 @@ DEINE AUFGABEN:
 
 ---
 
-### Campus Charlottenburg (zentraler Hauptcampus)
+### 🏛 Campus Charlottenburg (zentraler Hauptcampus)
 
 * **A – Architekturgebäude** — [Straße des 17. Juni 152, 10623 Berlin](https://www.google.com/maps/search/?api=1&query=Stra%C3%9Fe%20des%2017.%20Juni%20152%2C%2010623%20Berlin)
 * **AM – Alte Mineralogie** — [Hardenbergstraße 38, 10623 Berlin](https://maps.app.goo.gl/hrqYmNAYfMqiQgFJ6)
@@ -79,20 +79,20 @@ DEINE AUFGABEN:
 
 ---
 
-### Campus Salzufer (Severin-Gelände)
+### ⚙️ Campus Salzufer (Severin-Gelände)
 
 * **SG01–SG13 – Hauptgebäude** — [Salzufer 17–19, 10587 Berlin](https://maps.app.goo.gl/tCAhJmvSvjVN59nDA)
 
 
 
-### Campus Wedding (Ackerstraße & TIB-Gelände)
+### 🧪 Campus Wedding (Ackerstraße & TIB-Gelände)
 
 * **ACK – Ackerstraße 76** — [Ackerstraße 76, 13355 Berlin](https://www.google.com/maps/search/?api=1&query=Ackerstra%C3%9Fe%2076%2C%2013355%20Berlin)
 * **TIB10 – TIB25 (Reihe von Gebäuden)** — [Gustav-Meyer-Allee 25, 13355 Berlin](https://maps.app.goo.gl/6V11o49xge2rDw3i7)
 
 
 
-### Campus Seestraße
+### 🧬 Campus Seestraße
 
 * **GG – Gärungsgewerbe / Biotechnologie (Alt- & Neubau)** — [Seestraße 13, 13353 Berlin](https://www.google.com/maps/search/?api=1&query=Seestra%C3%9Fe%2013%2C%2013353%20Berlin)
 * **SIM – Simulierter Mensch (ZIB + TU Berlin)** — [Amrumer Straße 31, 13353 Berlin](https://maps.app.goo.gl/NVSqKhWdSigEhNdUA)
