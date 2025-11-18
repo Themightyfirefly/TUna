@@ -2,10 +2,6 @@ name: CI
 on:
   push:
     branches: ['*']
-    paths-ignore:
-      - '*/temp*'
-      - '*.temp*'
-      - '*.py'
   workflow_dispatch:
 
 jobs:
@@ -26,9 +22,12 @@ jobs:
     - name: Execute StuPo crawler
       run: python Knowledge/StuPo_Crawler/crawler.py
 
-    - name: Upload all files (excluding temp_ directories and files)
+    - name: Upload all files Knowledge files
       uses: actions/upload-artifact@v4
       with:
+        overwrite: true
         path: |
-          Knowledge/StuPo_Crawler/Studiengaenge_websites.md
-          Knowledge/StuPo_Crawler/StuPo*.pdf
+          Knowledge/**/*
+          !**/.py
+          !**/temp/**
+          !**/temp*
