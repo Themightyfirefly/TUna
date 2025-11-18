@@ -109,7 +109,7 @@ def html_to_markdown(program_sites: List[str]):
             if text.strip() != "":
                 content.append(text)
         iter += 1
-    with open("Studiengaenge_websites.md", "w", encoding="utf-8") as f:
+    with open(os.path.join(pathlib.Path(__file__).parent.resolve(),"Studiengaenge_websites.md"), "w", encoding="utf-8") as f:
         f.write("\n".join(content))
     
 def join_pdf_files():
@@ -137,7 +137,7 @@ def join_pdf_files():
                     merger.append(pdf, import_outline=False)
                 except Exception:
                     print(f"Could not write {str(pdf)}")
-            merger.write(f"StuPos_{counter}.pdf")
+            merger.write(os.path.join(pathlib.Path(__file__).parent.resolve(),f"StuPos_{counter}.pdf"))
             counter+=1
             merger.close()
             combined = True
