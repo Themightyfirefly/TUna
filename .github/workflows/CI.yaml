@@ -26,7 +26,6 @@ jobs:
     - name: Execute StuPo crawler
       run: python Knowledge/StuPo_Crawler/crawler.py
 
-  Gather_files:
     - name: Upload all files (excluding temp_ directories and files)
       uses: actions/upload-artifact@v4
       with:
