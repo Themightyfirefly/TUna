@@ -22,12 +22,18 @@ jobs:
     - name: Execute StuPo crawler
       run: python Knowledge/StuPo_Crawler/crawler.py
 
+    - name: Copy all relevant files into one directory
+      run: |
+        mkdir chatbot_knowledge
+        files=$(find . -path "./Knowledge/*" -type f  | \
+          sed 's/^.*temp.*$//' | \
+          sed 's/^.*\.py$//' | \
+          sed 's/^.*\requirements.txt$//')
+        for f in $files; do cp $f chatbot_knowledge/; done
+
     - name: Upload all files Knowledge files
       uses: actions/upload-artifact@v4
       with:
+        name: chatbot_knowledge
         overwrite: true
-        path: |
-          Knowledge/**/*
-          !**/.py
-          !**/temp/**
-          !**/temp*
+        path: chatbot_knowledge/*
