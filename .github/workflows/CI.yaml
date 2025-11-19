@@ -1,0 +1,39 @@
+name: CI
+on:
+  push:
+    branches: ['*']
+  workflow_dispatch:
+
+jobs:
+  StuPo_crawler:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v5
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.13'
+        cache: 'pip'
+
+    - name: Install Python dependencies
+      run: pip install -r Knowledge/StuPo_Crawler/requirements.txt
+
+    - name: Execute StuPo crawler
+      run: python Knowledge/StuPo_Crawler/crawler.py
+
+    - name: Copy all relevant files into one directory
+      run: |
+        mkdir chatbot_knowledge
+        files=$(find . -path "./Knowledge/*" -type f  | \
+          sed 's/^.*temp.*$//' | \
+          sed 's/^.*\.py$//' | \
+          sed 's/^.*requirements.txt$//')
+        for f in $files; do cp $f chatbot_knowledge/; done
+
+    - name: Upload all files Knowledge files
+      uses: actions/upload-artifact@v4
+      with:
+        name: chatbot_knowledge
+        overwrite: true
+        path: chatbot_knowledge/*

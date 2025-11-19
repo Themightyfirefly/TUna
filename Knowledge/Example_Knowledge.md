@@ -1,1 +1,0 @@
-In MTS können Studierende nach Kursen suchen: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html
