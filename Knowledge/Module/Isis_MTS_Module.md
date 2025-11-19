@@ -11,15 +11,18 @@ In "Onlien Informationen zu Isis und Moddle" findest du Ausschnitte von Online D
 ## Allgemein:
 
 Wann muss ich mich für die Kurse anmelden?
-    Die meisten Kurse veröffentlichen ihre Informationen innerhalb der ersten Wochen im Semester. Es reicht also oft die Kurse in der zweiten Semesterwoche zu wählen. Allerdings gibt es manchmal auch Kurse mit frühreren Fristen.
+    Die meisten Kurse veröffentlichen ihre Informationen innerhalb der ersten Wochen im Semester auf Isis. Es reicht also oft die Kurse in der zweiten Semesterwoche zu wählen. Allerdings gibt es manchmal auch Kurse mit frühreren Fristen.
 
 Was mache ich, wenn ich bei einem Kurs abgelehnt werde?
-    Es bietet sich an, direkt für mehrere Kurse anzumelden. Wenn man dann bei einem Kurs abgelehnt wird, hat man noch genug Kurse als Absicherung. Und sobald man dann die Zusagen bekommen hat, kann man sich bei den anderen Kursen wieder abmelden.
+    Es bietet sich an, direkt für mehrere Kurse in Isis anzumelden. Wenn man dann bei einem Kurs abgelehnt wird, hat man noch genug Kurse als Absicherung. Und sobald man dann die Zusagen bekommen hat, kann man sich bei den anderen Kursen wieder in Isis abmelden.
+
+Wie finde ich Kurse in Architektur?
+    In der Architektur gibt es ein gesondertes Verzeichnis für Kurse und Module. Dieses nennt sich Kommentiertes Vorlesungsverzeichnis und befindet sich zum Download auf dieser SeiteÖ https://www.tu.berlin/architektur/studium-lehre/lehrangebot/master-architektur
 
 ## MTS:
 
 Was ist MTS?
-    MTS ist eine Online Plattform der TU Berlin. Hier findet man allgemeine Informationen zu Modulen und kann sich für Prüfungen anmelden.
+    MTS ist eine Online Plattform der TU Berlin. Hier findet man allgemeine Informationen zu Modulen und kann sich für Prüfungen anmelden. Beachte bitte, dass eine Prüfungsanmeldung erst im Semester passiert und eine Anmeldung in dem zugehörigen Isis Kurs voraussetzt.
 
 Wie finde ich Kurse in Moses oder MTS?
     Auf https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/index.html kann man nach Kursen suchen. Gebe einfach einen Teil des Namen ein und klicke anscheinend auf den richtigen Kurs.
