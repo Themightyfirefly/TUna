@@ -28,7 +28,7 @@ jobs:
         files=$(find . -path "./Knowledge/*" -type f  | \
           sed 's/^.*temp.*$//' | \
           sed 's/^.*\.py$//' | \
-          sed 's/^.*\requirements.txt$//')
+          sed 's/^.*requirements.txt$//')
         for f in $files; do cp $f chatbot_knowledge/; done
 
     - name: Upload all files Knowledge files
