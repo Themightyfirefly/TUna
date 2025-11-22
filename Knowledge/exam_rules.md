@@ -1,10 +1,3 @@
----
-title: "Prüfungen an der TU Berlin"
-source: "TU Berlin – Prüfungsamt"
-last_updated: "2025-01-10"
-language: "de"
----
-
 # Prüfungen an der TU Berlin
 
 ## Prüfungsanmeldung
@@ -42,3 +35,4 @@ language: "de"
 ## Kontakt
 - Immer zuerst Prüfungsamt deiner Fakultät  
 - Allgemeine Fragen → Allgemeine Studienberatung
+

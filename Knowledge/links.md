@@ -1,14 +1,15 @@
  Offizielle TU Berlin Links zu Prüfungen & Noten
-### Studienorganisation:
+# Studienorganisation:
 (Aktuelles aus dem Studierendensekretariat; Anfrage per Mail & virtueller Sprechstunde; Rückmeldung, Prüfungen, Alles rund um Campus-IT und Ihren TU- Account, Finanzierung; Themen A-Z, Vorlesungsverzeichnis; Gesetze und Ordnungen; Häufig gestellte Fragen)
 ## Prüfungen allgemein:
 (Vor der ersten Prüfung; Zu den Prüfungsteams (Ansprechpartner Studiengänge, Team 2, Team 3, Team 4, Team 5); Referatsleitung; Alles um QISPOS; Formulare; SAP-Online-Prüfungsanmeldung für Pilotstudiengänge, ECTS-Ranking; Auskünfte/ Verifikation für ehem. Studierende, Behörden & Unternehmen) https://www.tu.berlin/studieren/studienorganisation/pruefungen
-# Modulprüfungen und Anerkennungen:
+### Modulprüfungen und Anerkennungen:
 (Anmeldung zur Modulprüfung; Abmeldung und Rücktritt von einer Modulprüfung; Wiederholung von Prüfungen; Anerkennung vin Prüfungsleistungen) https://www.tu.berlin/studieren/studienorganisation/pruefungen/modulpruefungen
-# Abschlussarbeiten:
+### Abschlussarbeiten:
 (Anmeldung der Abschlussarbeit; Nachteilsausgleich; Bearbeitungszeit; Abgabe der Abschlussarbeit; Wiederholung der Abschlussarbeit) https://www.tu.berlin/studieren/studienorganisation/pruefungen/abschlussarbeiten
-# Besondere Prüfungssituation:
+### Besondere Prüfungssituation:
 (Prüfung während Beurlaubung; Nachteilsausgleich bei Schwangerschaft, Elternschaft, chronischer Erkrankung, Behinderung und Pflege; Besonderheiten nach Exmatrikulation; Einspruch gegen eine Prüfungsbewertung erheben) https://www.tu.berlin/studieren/studienorganisation/pruefungen/besondere- pruefungssituationen
+
 ## Systeme https://isis.tu-berlin.de/ https://www.tu.berlin/isis https://www.tu.berlin/tubit
 ## Fakultätsprüfungsämter https://www.tu.berlin/pruefungen/pruefungen/kontakt-teams
 ## Formulare & Rücktritt
@@ -17,19 +18,31 @@ Formulare: https://www.tu.berlin/pruefungen/pruefungen/kontakt-teams/formulare
 ## Austauschstudierende:
 Informationen zur Lehrveranstaltungen: https://www.tu.berlin/index.php?id=15048
 
- TU Berlin Notenübersicht Austauschstudierende: https://www.tu.berlin/international/ studierende/internationale-studierende/austausch-an-die-tu-berlin/rund-ums-studium/ tu-berlin-zeugnis
+TU Berlin Notenübersicht Austauschstudierende: https://www.tu.berlin/international/ studierende/internationale-studierende/austausch-an-die-tu-berlin/rund-ums-studium/ tu-berlin-zeugnis
+
 ## Ergänzende Anlaufstellen
-Allgemeine Studienberatung: https://www.tu.berlin/studienberatung Studienberatung: https://www.tu.berlin/studienberatung/beratung/studienberatung Study-Guide: https://www.tu.berlin/studienberatung/studyguide
+Allgemeine Studienberatung: 
+WEB: https://www.tu.berlin/studienberatung 
+EMAIL: studienberatung(at)tu-berlin.de
 
+Gebäude	Hauptgebäude
+Raum: H 0070
+Adresse: Straße des 17. Juni 135, 10623 Berlin
+Offene Sprechstunde (H 0070) 
+Di 10:00-12:00, Do 14:00-16:00
+Beratung via Zoom	
+Mi 15:00-17:00
+Weitere Beratungsangebote	
+nach Vereinbarung per E-Mail
+Zoom-Link und Kontaktmöglichkeiten: https://tu-berlin.zoom.us/j/64606129820?pwd=NitvT2lNM1NoRUhPMncrMUpZZ0I0dz09
 
-
-
-
-
+Studienberatung: https://www.tu.berlin/studienberatung/beratung/studienberatung 
+Study-Guide: https://www.tu.berlin/studienberatung/studyguide
 
 
 # Anprechpartner und Teams im Referat Prüfungen
 
+Wenn ein Student eine Frage hat zum Prüfungsamt, gib direkt alle Infos zum jeweiligen Studiengang aus.
 
 ## Kontakt:
 
