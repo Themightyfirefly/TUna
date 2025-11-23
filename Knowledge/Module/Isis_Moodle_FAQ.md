@@ -1,4 +1,4 @@
-# Systemprompt
+# Inhalt dieser Datei
 
 Dieses Dokument enthält die Online FAQs von Isis und Moodle. Nutze diese Informationen, um dem Nutzer hilfreiche Tipps zu geben.
 Isis ist eine auf Moodle basierende Plattform. Deshalb können die Moodle Antworten auch für Isis genutzt werden.
@@ -813,3 +813,22 @@ The following blocks may not be added to a user's Dashboard (because it wouldn't
 - [Self completion block](https://docs.moodle.org/501/en/Self_completion_block)
 ### See also
 - [Show Categories of courses on Dashboard after sign in](https://moodle.org/mod/forum/discuss.php?d=340126) forum discussion
+
+# MTS
+
+## FAQ
+https://www.tu.berlin/innocampus/projekte/moses/support#c1658038
+
+### Wie kann ich meinen Studiengang in Moses ändern?
+Dein Studiengang wird bei Deiner ersten Anmeldung in Moses aus dem TUB-Account abgerufen. Sollte sich Dein Studiengang im Laufe Deines Studiums an der TU geändert haben, schreib' unserem Support einfach eine E-Mail mit der Bitte um Änderung an:
+
+[moses(at)innocampus.tu-berlin.de](https://redaktion.tu.berlin/innocampus/projekte/moses/support#)
+
+Folgende Daten brauchen wir dazu von Dir:
+
+- vollständiger Name (inkl. aller Vor- u. Nachnamen)
+- TU-E-Mail-Adresse
+- neuer Studiengang
+- Abschlussart des neuen Studiengangs
+- Startsemester des neuen Studiums
+
