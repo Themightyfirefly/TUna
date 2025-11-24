@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  StuPo_crawler:
+  Script_execution:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v5
@@ -22,10 +22,10 @@ jobs:
     - name: Execute StuPo crawler
       run: python Knowledge/Pruefungsamt_Thesis/Stupo_Skript/crawler.py
 
-    - name: Find all gather_ directories and gather files
+    - name: Find all combine_ directories and combine pdf files
       run: |
         dirs=$(find . -path "./combine_*" -type d)
-        for d in $dirs; do python Scripts/combine_pdfs.py $d; done
+        for d in $dirs; do python Scripts/combine_pdfs.py "../$d"; done
 
     - name: Copy all relevant files into one directory
       run: |
@@ -34,6 +34,7 @@ jobs:
           sed 's/^.*temp.*$//' | \
           sed 's/^.*\.py$//' | \
           sed 's/^.*survey.*$//' | \
+          sed 's/^.*combine_.*$//' | \
           sed 's/^.*requirements.txt$//')
         for f in $files; do cp $f chatbot_knowledge/; done
 
