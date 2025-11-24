@@ -24,8 +24,8 @@ jobs:
 
     - name: Find all combine_ directories and combine pdf files
       run: |
-        dirs=$(find . -path "./combine_*" -type d)
-        for d in $dirs; do python Scripts/combine_pdfs.py "../$d"; done
+        dirs=$(find "$(pwd)" -path "$(pwd)/Knowledge/*combine_*" -type d)
+        for d in $dirs; do python Scripts/combine_pdfs.py $d; done
 
     - name: Copy all relevant files into one directory
       run: |
