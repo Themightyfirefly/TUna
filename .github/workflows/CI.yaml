@@ -19,13 +19,13 @@ jobs:
     - name: Install Python dependencies
       run: pip install -r General_Scripts/requirements.txt
 
-    - name: Execute StuPo crawler
-      run: python Knowledge/Pruefungsamt_Thesis/Stupo_Skript/crawler.py
-
     - name: Find all combine_ directories and combine pdf files
       run: |
         dirs=$(find "$(pwd)" -path "$(pwd)/Knowledge/*combine_*" -type d)
-        for d in $dirs; do python Scripts/combine_pdfs.py $d; done
+        for d in $dirs; do python General_Scripts/combine_pdfs.py $d; done
+
+    - name: Execute StuPo crawler
+      run: python Knowledge/Pruefungsamt_Thesis/Stupo_Skript/crawler.py
 
     - name: Copy all relevant files into one directory
       run: |
