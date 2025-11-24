@@ -17,10 +17,10 @@ jobs:
         cache: 'pip'
 
     - name: Install Python dependencies
-      run: pip install -r Knowledge/Prüfungsamt_Thesis/Stupo_Skript/requirements.txt
+      run: pip install -r General_Scripts/requirements.txt
 
     - name: Execute StuPo crawler
-      run: python Knowledge/Prüfungsamt_Thesis/Stupo_Skript/crawler.py
+      run: python Knowledge/Pruefungsamt_Thesis/Stupo_Skript/crawler.py
 
     - name: Find all gather_ directories and gather files
       run: |
