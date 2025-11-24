@@ -17,10 +17,15 @@ jobs:
         cache: 'pip'
 
     - name: Install Python dependencies
-      run: pip install -r Knowledge/StuPo_Crawler/requirements.txt
+      run: pip install -r Knowledge/Prüfungsamt_Thesis/Stupo_Skript/requirements.txt
 
     - name: Execute StuPo crawler
-      run: python Knowledge/StuPo_Crawler/crawler.py
+      run: python Knowledge/Prüfungsamt_Thesis/Stupo_Skript/crawler.py
+
+    - name: Find all gather_ directories and gather files
+      run: |
+        dirs=$(find . -path "./combine_*" -type d)
+        for d in $dirs; do python Scripts/combine_pdfs.py $d; done
 
     - name: Copy all relevant files into one directory
       run: |
@@ -28,6 +33,7 @@ jobs:
         files=$(find . -path "./Knowledge/*" -type f  | \
           sed 's/^.*temp.*$//' | \
           sed 's/^.*\.py$//' | \
+          sed 's/^.*survey.*$//' | \
           sed 's/^.*requirements.txt$//')
         for f in $files; do cp $f chatbot_knowledge/; done
 

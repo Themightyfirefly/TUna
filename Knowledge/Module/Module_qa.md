@@ -5,7 +5,12 @@ In deser Datei findest du beispielhafte Fragen und Antworten im folgenden Format
 Frage
     Antwort
 
+Der Inhalt in dieser Datei ist per Hand verfasst und die Gültigkeit ist somit gegeben. Benutze vor allem die Informationen aus dieser Datei, falls diese bei der Beantwortung der Nutzerfragen helfen.
+
 # Allgemein:
+
+Wie finde ich Kurse in Architektur?
+    In der Architektur gibt es ein gesondertes Verzeichnis für Kurse und Module. Dieses nennt sich Kommentiertes Vorlesungsverzeichnis und befindet sich zum Download auf dieser Seite: https://www.tu.berlin/architektur/studium-lehre/lehrangebot/master-architektur
 
 Wann muss ich mich für die Kurse anmelden?
     Die meisten Kurse veröffentlichen ihre Informationen innerhalb der ersten Wochen im Semester. Es reicht also oft die Kurse in der zweiten Semesterwoche zu wählen. Allerdings gibt es manchmal auch Kurse mit frühreren Fristen.
@@ -18,6 +23,18 @@ Wie weiß ich, wann ein Kurs stattfindet?
 
 Was mache ich, wenn meine Vorlesungszeiten überschneiden?
     Manche Vorlesungen werden aufgezeichnet. Bei Tutorien kannst du möglicherweise ein alternatives Tutorium besuchen. Bei Vorlesungen, bei denen du anwesend sein musst, kann es aber sein, dass du nicht beide Module in diesem Semester belegen musst. Auch deshalb ist es sinnvoll sich mehrere alternative 
+
+Was muss ich machen, wenn ich am Tag der Prüfung krank bin?
+    Du musst bis spätestens drei Tage nach der Prüfung eine Krankschreibung von deinem Arzt bei dem zuständigen Prüfungsamt einreichen. Du darfst die Prüfung dann an einem späteren Zeitpunkt nachholen.
+
+Wo finde ich meine Note nachdem ich die Prüfung abgelegt habe?
+    Die Note für deine Prüfung steht in der Regel innerhalb zwei bis vier Wochen nach der Prüfung fest. Teilweise kannst du sie direkt in der Prüfungsanmeldungsübersicht in MTS sehen. Falls nicht, wird sie aber auf jeden Fall innerhalb ein oder zwei weiterer Wochen in QISPOS eingetragen. Sollte es zu Verzögerungen kommen, wendest du dich am besten an dein Fachgebiet.
+
+Gibt es eine Einsicht nach einer Prüfung?
+    Du hast das Recht auf eine Einsicht. Diese findet in der Regel innerhalb eines Monats nach der Prüfung statt. Falls es keine offizielle Einsicht gibt, kannst du diese bei der für das Modul verantwortlichen Person per Email beantragen.
+
+Meine Note ist sehr schlecht, was soll ich machen?
+    Viele Studierende erleben das. Es ist also erstmal kein Grund sich zu viele Sorgen zu machen. Am besten gehst du zur Einsicht und redest mit den Personen vor Ort. Oft hat ein überraschend schlechtes Ergebnis Ursachen, die sich dort beheben lassen. Bei Unzufriedenheit ist auch die [Studienberatung](https://www.tu.berlin/studienberatung) eine sehr gute Anlaufstelle, um etwas Unterstützung im Studienstress zu finden. Auch bei dem [Studierendenwerk](https://www.stw.berlin/beratung/psychologisch.html) findet man sehr gute Angebote für helfende Gespräche.
 
 # Vorlesungsverzeichnis
 
@@ -48,6 +65,12 @@ Wo sehe ich ob ein Kurs benotet ist?
 
 Was bedeutet es, wenn der Kurs auf eine maximale Anzahl an Personen beschränkt ist?
     Wenn die Anzahl der Teilnehmenden Studierenden beschränkt ist, werden die Plätze zufällig aus allen Anmeldungen vergeben. Ein Vorteil kann es hierbei sein wenn du dich in einem vorherigen Semester bereits für den Kurs beworben hast.
+
+Wie melde ich mich für eine Prüfung an?
+    In dem [MTS Anmeldungswizard](https://moseskonto.tu-berlin.de/moses/modultransfersystem/modulpruefung/anmeldungwizard.html) kann man sich für Prüfungen anmelden. Hierfür braucht man einen aktiven TU Berlin Account, um sich anmelden zu können. Achte darauf, dass es sich hier um die verbindliche Anmeldung für die Prüfung geht. Die initiale Kursanmeldung findet auf Isis statt.
+
+Wie melde ich mich von einer Prüfung ab?
+    Solange die Abmeldefrist für eine Prüfung noch nicht abgelaufen ist, kannst du dich über [die Anmeldeübersicht in MTS](https://moseskonto.tu-berlin.de/moses/modultransfersystem/modulpruefung/uebersichtanmeldungen.html) von dem Kurs abmelden. Sollte die Frist abgelaufen sein, kannst du dich in der Regel nicht mehr abmelden. In besonderen Fällen kannst du dich per Email an die Kursverantwortlichen wenden. 
 
 # Prüfungsordnung:
 
