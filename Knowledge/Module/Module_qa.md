@@ -9,6 +9,12 @@ Der Inhalt in dieser Datei ist per Hand verfasst und die Gültigkeit ist somit g
 
 # Allgemein:
 
+Wo melde ich mich für einen Kurs an?
+    Du meldest dich auf Isis für einen Kurs an. Zur Unterstützung kannst du MTS benutzen, um nach Kursinformationen zu suchen. Allerdings kannst du dich nicht auf MTS für eine Kursteilnahme anmelden.
+
+Was ist der Unterschied zwischen einer Kursanmeldung und einer Prüfungsanmeldung.
+    Die Kursanmeldung findet auf Isis statt. Diese dient dazu, dass die Leherenden wissen, wer in ihren Kursen ist und wem sie die Lehrmaterialien zur Verfügung stellen können. Die Anmeldung auf Isis ist zwar verpflichtend, wenn du an dem Kurs teilnehmen willst, aber man kann sich auch anmelden, ohne den Kurs mit einer Prüfung abzuschließen. Das kann zum Beispiel hilfreich sein, wenn man wissen will, wie schwer der Kurs ist, oder sich einfach für das Thema interessiert. Im Verlaufe des Semesters wird man dann über Isis aufgefordert sich in MTS für die Prüfung anzumelden. Hat man sich für die Prüfung angemeldet, muss man an dieser auch teilnehmen.
+
 Wie finde ich Kurse in Architektur?
     In der Architektur gibt es ein gesondertes Verzeichnis für Kurse und Module. Dieses nennt sich Kommentiertes Vorlesungsverzeichnis und befindet sich zum Download auf dieser Seite: https://www.tu.berlin/architektur/studium-lehre/lehrangebot/master-architektur
 

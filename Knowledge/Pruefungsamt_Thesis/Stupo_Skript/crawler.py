@@ -50,6 +50,8 @@ def get_program_sites(program_lists: List[str]):
 def html_to_markdown(program_sites: List[str]):
     print("\n Study program websites")
     content=[]
+    content.append("# List of all websites used in generating this file")
+    content.append(str(program_sites))
     iter = 1
     total_download_dir = os.path.join(pathlib.Path(__file__).parent.resolve(),DOWNLOAD_DIR)
     if not os.path.exists(total_download_dir):
@@ -70,6 +72,7 @@ def html_to_markdown(program_sites: List[str]):
         print(f"({iter}/{len(program_sites)}) Extracting information from {link}")
         soup = make_soup(link)
         supported_types = ["h1","h2","h3","h4","p","li"]
+        curr_header = ""
         for entry in soup.find_all(supported_types):
             text = ""
             match entry.name:
@@ -79,12 +82,13 @@ def html_to_markdown(program_sites: List[str]):
                         text = text.replace(link.get_text().strip(), f"[{link.get_text()}]({link["href"]})")
                 case "h1":
                     text = "# " + entry.get_text().strip()
+                    curr_header = entry.get_text().strip()
                 case "h2":
-                    text = "## " + entry.get_text().strip()
+                    text = "## " + curr_header + ": " + entry.get_text().strip()
                 case "h3":
-                    text = "### " + entry.get_text().strip()
+                    text = "### " + curr_header + ": " + entry.get_text().strip()
                 case "h4":
-                    text = "#### " + entry.get_text().strip()
+                    text = "#### " + curr_header + ": " + entry.get_text().strip()
                 case "li":
                     if "class" in entry.attrs and "stupoDownloadList" in entry.attrs["class"]:
                         a_elem = entry.contents[0]
