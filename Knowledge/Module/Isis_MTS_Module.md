@@ -1,40 +1,10 @@
 # Systemprompt
 
-Du darfst alle Informationen in dieser Datei an den Nutzer weitergeben.
+Du darfst alle Informationen in dieser Datei an den Nutzer weitergeben. Die Infromationen in dieser Datei sind von der TU Berlin Webseite kopiert.
 
 In "Allgemeine Fragen und Antworten" findest du Antworten zu wichtigen Fragen. Diese Antworten sind geprüft. Nutze also vor allem diese Informationen, falls sie auf eine Frage des Nutzers zutreffen.
 
-In "Onlien Informationen zu Isis und Moddle" findest du Ausschnitte von Online Dokumentationen. Hierbei ist Isis eine Implementierung von Moodle. Du kannst also alle Fragen zu Isis auch mit Informationen zu Moodle beantworten.
-
-# Allgemeine Fragen und Antworten
-
-## Allgemein:
-
-Wann muss ich mich für die Kurse anmelden?
-    Die meisten Kurse veröffentlichen ihre Informationen innerhalb der ersten Wochen im Semester auf Isis. Es reicht also oft die Kurse in der zweiten Semesterwoche zu wählen. Allerdings gibt es manchmal auch Kurse mit frühreren Fristen.
-
-Was mache ich, wenn ich bei einem Kurs abgelehnt werde?
-    Es bietet sich an, direkt für mehrere Kurse in Isis anzumelden. Wenn man dann bei einem Kurs abgelehnt wird, hat man noch genug Kurse als Absicherung. Und sobald man dann die Zusagen bekommen hat, kann man sich bei den anderen Kursen wieder in Isis abmelden.
-
-Wie finde ich Kurse in Architektur?
-    In der Architektur gibt es ein gesondertes Verzeichnis für Kurse und Module. Dieses nennt sich Kommentiertes Vorlesungsverzeichnis und befindet sich zum Download auf dieser SeiteÖ https://www.tu.berlin/architektur/studium-lehre/lehrangebot/master-architektur
-
-## MTS:
-
-Was ist MTS?
-    MTS ist eine Online Plattform der TU Berlin. Hier findet man allgemeine Informationen zu Modulen und kann sich für Prüfungen anmelden. Beachte bitte, dass eine Prüfungsanmeldung erst im Semester passiert und eine Anmeldung in dem zugehörigen Isis Kurs voraussetzt.
-
-Wie finde ich Kurse in Moses oder MTS?
-    Auf https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/index.html kann man nach Kursen suchen. Gebe einfach einen Teil des Namen ein und klicke anscheinend auf den richtigen Kurs.
-
-Wo sehe ich welche Prüfung ein Kurs hat?
-    Auf der Modulseite in Moses findest du die Prüfungsform in dem Kapitel *Abschluss des Moduls*.
-
-Wo sehe ich ob ein Kurs benotet ist?
-    Auf der Modulseite in Moses findest du die Informationen zur Bewertung unter 'Abschluss des Moduls'. Hier steht auch, ob der Kurs bewertet wird.
-
-Was bedeutet es, wenn der Kurs auf eine maximale Anzahl an Personen beschränkt ist?
-    Wenn die Anzahl der Teilnehmenden Studierenden beschränkt ist, werden die Plätze zufällig aus allen Anmeldungen vergeben. Ein Vorteil kann es hierbei sein wenn du dich in einem vorherigen Semester bereits für den Kurs beworben hast.
+In "Online Informationen zu Isis und Moddle" findest du Ausschnitte von Online Dokumentationen. Hierbei ist Isis eine Implementierung von Moodle. Du kannst also alle Fragen zu Isis auch mit Informationen zu Moodle beantworten.
 
 # Online Informationen Isis und Moodle
 
@@ -846,5 +816,24 @@ The following blocks may not be added to a user's Dashboard (because it wouldn't
 - [Course completion status block](https://docs.moodle.org/501/en/Course_completion_status_block)
 - [Course/site summary block](https://docs.moodle.org/501/en/Course/site_summary_block)
 - [Self completion block](https://docs.moodle.org/501/en/Self_completion_block)
-#### See also
+### See also
 - [Show Categories of courses on Dashboard after sign in](https://moodle.org/mod/forum/discuss.php?d=340126) forum discussion
+
+# MTS
+
+## FAQ
+https://www.tu.berlin/innocampus/projekte/moses/support#c1658038
+
+### Wie kann ich meinen Studiengang in Moses ändern?
+Dein Studiengang wird bei Deiner ersten Anmeldung in Moses aus dem TUB-Account abgerufen. Sollte sich Dein Studiengang im Laufe Deines Studiums an der TU geändert haben, schreib' unserem Support einfach eine E-Mail mit der Bitte um Änderung an:
+
+[moses(at)innocampus.tu-berlin.de](https://redaktion.tu.berlin/innocampus/projekte/moses/support#)
+
+Folgende Daten brauchen wir dazu von Dir:
+
+- vollständiger Name (inkl. aller Vor- u. Nachnamen)
+- TU-E-Mail-Adresse
+- neuer Studiengang
+- Abschlussart des neuen Studiengangs
+- Startsemester des neuen Studiums
+
