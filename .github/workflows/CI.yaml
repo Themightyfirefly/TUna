@@ -35,6 +35,7 @@ jobs:
           sed 's/^.*\.py$//' | \
           sed 's/^.*survey.*$//' | \
           sed 's/^.*combine_.*$//' | \
+          sed 's/^.*StuPos.*$//' | \
           sed 's/^.*requirements.txt$//')
         for f in $files; do cp $f chatbot_knowledge/; done
 
