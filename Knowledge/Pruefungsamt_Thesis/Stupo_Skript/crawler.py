@@ -79,7 +79,7 @@ def html_to_markdown(program_sites: List[str]):
                     for link in entry.find_all("a"):
                         text = text.replace(link.get_text().strip(), f"[{link.get_text()}]({link["href"]})")
                 case "h1":
-                    text = f"# ({entry.get_text().strip()})[{link}]"
+                    text = f"# [{entry.get_text().strip()}]({link})"
                     curr_header = entry.get_text().strip()
                 case "h2":
                     text = "## " + curr_header + ": " + entry.get_text().strip()
