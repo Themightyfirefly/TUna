@@ -50,8 +50,6 @@ def get_program_sites(program_lists: List[str]):
 def html_to_markdown(program_sites: List[str]):
     print("\n Study program websites")
     content=[]
-    content.append("# List of all websites used in generating this file")
-    content.append(str(program_sites))
     iter = 1
     total_download_dir = os.path.join(pathlib.Path(__file__).parent.resolve(),DOWNLOAD_DIR)
     if not os.path.exists(total_download_dir):
@@ -81,7 +79,7 @@ def html_to_markdown(program_sites: List[str]):
                     for link in entry.find_all("a"):
                         text = text.replace(link.get_text().strip(), f"[{link.get_text()}]({link["href"]})")
                 case "h1":
-                    text = "# " + entry.get_text().strip()
+                    text = f"# ({entry.get_text().strip()})[{link}]"
                     curr_header = entry.get_text().strip()
                 case "h2":
                     text = "## " + curr_header + ": " + entry.get_text().strip()
@@ -105,7 +103,7 @@ def html_to_markdown(program_sites: List[str]):
                                     filename = re.sub(r"(\.pdf)*$", ".pdf", filename)
                                 with open(f"{total_download_dir}/{filename}", "wb") as f:
                                     f.write(_r.content)
-                                text = f"Siehe StuPo Datei in der Knowledge (Link zu der StuPo pdf auf der TU Berlin Internetseite: {a_elem["href"]})."
+                                text = f"{a_elem["href"]}."
                             except Exception as e:
                                 print(f"Could not download file from {a_elem["href"]}:\n{e}")
                 case _:
