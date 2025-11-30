@@ -42,7 +42,8 @@ def main():
                     merger.append(pdf, import_outline=False)
                 except Exception:
                     print(f"Could not write {str(pdf)}")
-            target = os.path.join(pathlib.Path(total_download_dir).parent.resolve(),f"{FILENAME}_{counter}.pdf")
+            if counter == 0: target = os.path.join(pathlib.Path(total_download_dir).parent.resolve(),f"{FILENAME}.pdf")
+            else: target = os.path.join(pathlib.Path(total_download_dir).parent.resolve(),f"{FILENAME}_{counter}.pdf")
             print("target: " + str(target))
             merger.write(target)
             counter+=1

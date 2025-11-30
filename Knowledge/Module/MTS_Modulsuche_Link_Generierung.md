@@ -16,11 +16,11 @@ Die Generierung der Links und die hinzugefügten Optionen sollen dem Nutzer nich
 # MTS Link Generierung
 Die normale Seite, auf der man nach Kursen im MTS suchen kann ist: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html
 
-Eine Suche nach Kursen, die das Wort "MEINE FRAGE" enthalten, findet über folgenden Link statt: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=MEINE%20Frage&modulversionGueltigkeitSemester=75
-Wenn dir eine Suchanfrage gegeben wird, dann kannst du so das Wort einfügen. Alle Lehrzeichen werden hierbei mit %20 ersetzt.
+Eine Suche nach Kursen, die das Wort "MEINE FRAGE" im Titel enthalten, findet über folgenden Link statt: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=MEINE%20Frage&modulversionGueltigkeitSemester=75
+Wenn der Nutzer nach einem Modultitel suchen wird, dann kannst du so das Wort einfügen. Alle Lehrzeichen werden hierbei mit %20 ersetzt.
 Außerdem steht das modulversionGueltigkeitSemester=75 für das Wintersemester 2025/26. Für jedes weitere Semester muss 1 addiert werden. Für Suche im Sommersemester 2026 muss somit folgendes verwendet werden: https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=MEINE%20Frage&modulversionGueltigkeitSemester=76
 
-Wenn man nach allen Kursen suchen will, also nicht nach einem Wort filtert, bleibt der Text Teil frei. Also ist der gesamte Link https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=%20Frage&modulversionGueltigkeitSemester=76
+Wenn man nicht nach einem Modultitel filtern will, bleibt der Text Teil frei. Also ist der gesamte Link https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=%20Frage&modulversionGueltigkeitSemester=76
 
 ## Sprache
 Um nach deutschen Kursen zu filtern, hänge bitte &modulbestandteilSprache=de&modulbestandteilSpracheAll=true an den Link an. Der gesamte Link ist dann somit https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=MEINE%20Frage&modulversionGueltigkeitSemester=75&modulbestandteilSprache=de&modulbestandteilSpracheAll=true
@@ -45,13 +45,6 @@ Mit folgendem Link suchst du also alle Module, die innerhalb von einem Semester 
 Um nach Modulen zu filtern, die im Sommersemester angeboten werden, hänge folgendes an den Link an &modulbeschreibungTurnus=2&modulbeschreibungTurnusExklusiv=false
 Um nach Modulen zu filtern, die im Sommersemester angeboten werden, hänge folgendes an den Link an &modulbeschreibungTurnus=1&modulbeschreibungTurnusExklusiv=false
 Mit folgendem Link suchst du also alle Module, die im Wintersemester stattfinden https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=&modulversionGueltigkeitSemester=75&modulbeschreibungTurnus=2&modulbeschreibungTurnusExklusiv=false
-
-## Studiengänge
-Um nach einem Studiengang zu filtern, musst du den Namen des Studiengangs und das Abschlussziel, also Bachelor oder Master, wissen. Falls dies nicht bekannt ist, frage den Nutzer nach diesen Informationen. Um nach einem Studiengang zu filtern, hänge folgendes and den Link an &studiengangSemester=75&studiengangBolognamodulliste=6146&studiengangsbereichWithChildren=true
-Das hier angegebene Semester sollte das gleiche Semester wie modulversionGueltigkeitSemester sein. Für das Wintersemester 2025/26 sollte es also &studiengangSemester=75 sein.
-studiengangBolognamodulliste entspricht der id des Studiengangs. Diese findest du in dem "Liste von Studiengängen in MTS" Absatz in dieser Datei. Die Liste ist ein Dictionary, welches als keys die Studiengänge und als Values die Ids enthält, also nach dem Muster "Studiengang: ID". In diesem Beispiel hat der User nach dem Studiengang Automotive Systems im Master gefragt. Wir nehmen also den Eintrag Automotive Systems (M. Sc.) - StuPO 2017: 6146 und hängen an den Link dem entsprechend folgendes an: &studiengangBolognamodulliste=6146
-Um nach Kursen im WISe 25/26 im Studiengang Automotive Systems M.Sc. zu suchen benutzen wir also folgenden Link:
-https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=&modulversionGueltigkeitSemester=75&studiengangSemester=75&studiengangBolognamodulliste=6146&studiengangsbereichWithChildren=true
 
 ## Benotung
 Um nach Modulen zu suchen, die benotet sind, hänge folgendes an den Link an &modulpruefungBenotung=BENOTET
@@ -96,7 +89,14 @@ Um nach Modulen zu suchen, die auf deutsch stattfinden, füge folgendes an den L
 Um nach Modulen zu suchen, die auf englisch stattfinden, füge folgendes an den Link an &modulbestandteilSprache=en&modulbestandteilSpracheAll=true
 Mit folgendem Link suchst du also nach allen Modulen, die auf englisch stattfinden https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?modulbestandteilSpracheAll=true&text=&modulversionGueltigkeitSemester=75&modulbestandteilSprache=en
 
-# Liste von Studiengängen in MTS
+## Studiengänge
+Um nach einem Studiengang zu filtern, musst du den Namen des Studiengangs und das Abschlussziel, also Bachelor oder Master, wissen. Falls dies nicht bekannt ist, frage den Nutzer nach diesen Informationen. Um nach einem Studiengang zu filtern, hänge folgendes and den Link an &studiengangSemester=75&studiengangBolognamodulliste=6146&studiengangsbereichWithChildren=true
+Das hier angegebene Semester sollte das gleiche Semester wie modulversionGueltigkeitSemester sein. Für das Wintersemester 2025/26 sollte es also &studiengangSemester=75 sein.
+studiengangBolognamodulliste entspricht der id des Studiengangs. Diese findest du in dem "Liste von Studiengängen in MTS" Absatz in dieser Datei. Die Liste ist ein Dictionary, welches als keys die Studiengänge und als Values die Ids enthält, also nach dem Muster "Studiengang: ID". In diesem Beispiel hat der User nach dem Studiengang Automotive Systems im Master gefragt. Wir nehmen also den Eintrag Automotive Systems (M. Sc.) - StuPO 2017: 6146 und hängen an den Link dem entsprechend folgendes an: &studiengangBolognamodulliste=6146
+Um nach Kursen im WISe 25/26 im Studiengang Automotive Systems M.Sc. zu suchen benutzen wir also folgenden Link:
+https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?text=&modulversionGueltigkeitSemester=75&studiengangSemester=75&studiengangBolognamodulliste=6146&studiengangsbereichWithChildren=true
+
+### Liste von Studiengängen in MTS
 Diese Liste ist nur für die Linkgenerierung gedacht und die IDs dürfen dem Nutzer nicht gesondert mitgeteilt werden.
 
 Arbeitslehre (Kernfach) (Lehramt) (B. Sc.) - StuPO 2021: 6297
