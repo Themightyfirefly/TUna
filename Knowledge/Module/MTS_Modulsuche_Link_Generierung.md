@@ -33,15 +33,15 @@ Soll ein Filter zu der Suche hinzugefügt werden, kann dieser Filter an den Link
 
 # Filter
 Diese Filter stehen zur Verfügung. Genaue Erklärungen findest du in den folgenden Kapiteln.
-Studiengang: &modulversionGueltigkeitSemester, &studiengangBolognamodulliste und &studiengangsbereichWithChildren
-Sprache: &modulbestandteilSprache
+Studiengang: &modulversionGueltigkeitSemester, &studiengangBolognamodulliste und &studiengangsbereichWithChildren (alle drei Filter verpflichtend zusammen)
+Sprache: &modulbestandteilSprache und &modulbestandteilSpracheAll (beide verpflichtend zusammen)
 Verantwortliche Person: &modulbeschreibungVerantwortlich
 Leistungspunkte: &modulbeschreibungLp
 Dauer: &modulbeschreibungDauer
-Turnus: &modulbeschreibungTurnus
+Turnus: &modulbeschreibungTurnus und &modulbeschreibungTurnusExklusiv=false (beide verpflichtend zusammen)
 Benotung: &modulpruefungBenotung
 Prüfungsform: &modulpruefungPruefungsform
-Lehrveranstaltungsformat: &modulbestandteilArt und &modulbestandteilArtAll
+Lehrveranstaltungsformat: &modulbestandteilArt und &modulbestandteilArtAll (beide verpflichtend zusammen)
 Modultitel: &text
 
 # Studiengang
@@ -55,16 +55,16 @@ https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.h
 
 
 # Sprache
-Um nach Modulen zu suchen, die auf deutsch stattfinden, füge folgendes an den Link an &modulbestandteilSprache=de&modulbestandteilSpracheAll=true
-Um nach Modulen zu suchen, die auf englisch stattfinden, füge folgendes an den Link an &modulbestandteilSprache=en&modulbestandteilSpracheAll=true
-Mit folgendem Link suchst du also nach allen Modulen, die auf englisch stattfinden https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?modulbestandteilSpracheAll=true&&modulversionGueltigkeitSemester=75&modulbestandteilSprache=en
+Um nach deutschen Modulen zu suchen, die auf deutsch stattfinden, füge folgendes an den Link an &modulbestandteilSprache=de&modulbestandteilSpracheAll=true
+Um nach englischen Modulen zu suchen, die auf englisch stattfinden, füge folgendes an den Link an &modulbestandteilSprache=en&modulbestandteilSpracheAll=true
+Mit folgendem Link suchst du also nach allen Modulen, die auf englisch stattfinden https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?&modulversionGueltigkeitSemester=75&modulbestandteilSpracheAll=true&modulbestandteilSprache=en
 
 # Verantwortliche Person
 Um nach einer Person zu filtern, die für ein Modul verantwortlich ist, hänge folgendes an den Link an &modulbeschreibungVerantwortlich=Hönig
 Der hier angegebene Name muss ein Nachname sein. Mit folgendem Link suchen wir also nach allen Veranstaltungen, die von einer Person mit dem Nachnamen Hönig organisiert werden https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?&modulversionGueltigkeitSemester=75&modulbeschreibungVerantwortlich=Hönig
 
 # Leistungspunkte
-Um nach den Leistungspunkten zu filtern, hänge fondes an den Link an &modulbeschreibungLp=6
+Um nach den Leistungspunkten zu filtern, hänge folgendes an den Link an &modulbeschreibungLp=6
 Hier wird also nach allen Kursen gesucht, die 6 LP bringen. LP werden manchmal auch Credits oder ECTS genannt. Im Link werden sie aber immer als modulbeschreibungLp angegeben.
 Somit können wir mit folgendem Link nach allen Modulen suchen, die 6 LP bringen https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?&modulversionGueltigkeitSemester=75&modulbeschreibungLp=6
 
@@ -74,16 +74,17 @@ Hier wird also nach Modulen gefiltert, die innerhalb von einem Semester abgeschl
 Mit folgendem Link suchst du also alle Module, die innerhalb von einem Semester abgeschlossen werden können https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?&modulversionGueltigkeitSemester=75&modulbeschreibungDauer=1
 
 # Turnus
-Um nach Modulen zu filtern, die im Sommersemester angeboten werden, hänge folgendes an den Link an &modulbeschreibungTurnus=2&modulbeschreibungTurnusExklusiv=false
+Um nach Modulen zu filtern, die im Wintersemester angeboten werden, hänge folgendes an den Link an &modulbeschreibungTurnus=2&modulbeschreibungTurnusExklusiv=false
 Um nach Modulen zu filtern, die im Sommersemester angeboten werden, hänge folgendes an den Link an &modulbeschreibungTurnus=1&modulbeschreibungTurnusExklusiv=false
 Mit folgendem Link suchst du also alle Module, die im Wintersemester stattfinden https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?&modulversionGueltigkeitSemester=75&modulbeschreibungTurnus=2&modulbeschreibungTurnusExklusiv=false
 
 # Benotung
-Um nach Modulen zu suchen, die benotet sind, hänge folgendes an den Link an &modulpruefungBenotung=BENOTET
-Um nach Modulen zu suchen, die nicht benotet (unbenotet) sind, hänge folgendes an den Link an &modulpruefungBenotung=UNBENOTET
+Um nach Modulen zu suchen, die benotet sind, hänge folgendes an den Link an (inklusive dem Wert BENOTET) &modulpruefungBenotung=BENOTET
+Um nach Modulen zu suchen, die nicht benotet (unbenotet) sind, hänge folgendes an den Link an (inklusive dem Wert UNBENOTET) &modulpruefungBenotung=UNBENOTET
 Mit folgendem Link suchst du also alle Module, die benotet sind https://moseskonto.tu-berlin.de/moses/modultransfersystem/bolognamodule/suchen.html?&modulversionGueltigkeitSemester=75&modulpruefungBenotung=BENOTET
 
 # Prüfungsform
+Die Werte für die Prüfungsform sind Zahlen und im Folgenden beschrieben:
 Um nach Modulen zu suchen, die als Prüfung eine mündliche Prüfung haben, hänge folgendes an den Link an &modulpruefungPruefungsform=1
 Um nach Modulen zu suchen, die als Prüfung eine schriftliche Prüfung haben, hänge folgendes an den Link an &modulpruefungPruefungsform=2
 Um nach Modulen zu suchen, die als Prüfung eine Portfolioprüfung haben, also eine Kombination von mehreren Prüfungselementen, hänge folgendes an den Link an &modulpruefungPruefungsform=3
