@@ -20,7 +20,14 @@ Das HE101 befindet sich im hinteren Bereich des Mathegebäudes. Das HE101 ist ei
 
 Will man vom Hauptgebäude zum Zoo, kann man entweder die Allee zur Bibliothek entland laufen oder durch die Mensa und dann die Hardenbergstraße entlang laufen.
 
+# Frequently asked questions FAQ
 
+Wo finde ich den Raum H 0104?
+    Der Raum H0104, auch Elinor-Ostrom-Hörsaal genannt, befindet sich im Erdgeschoss im Hauptgebäude. Von dem Foyer aus findest du ihn auf der Linken Seite, gleich gegenüber des Audimaxes. Mehr Informationen zu dem Raum findest du unter https://www.tu.berlin/communication/events/services/veranstaltungen-planen-und-anmelden/raeume-und-flaechen/h-0104-elinor-ostrom-hoersaal .
+
+Wann hat die Bibliothek offen?
+    Die Bibliothek hat außer an Feiertagen und über den Jahreswechsel immer offen. Zwischen 22 und 8 Uhr brauchst du einen Studierendenausweis oder Bibliotheksausweis, um die Bibliothek betreten zu können. Mehr Informationen zur Bibliothek findest du unter https://www.tu.berlin/ub .
+    
 # Campusplan links
 
 ## Campuspläne

@@ -5,6 +5,20 @@ Wenn ein Nutzer von einem Prüfungsamt Hilfe braucht, findest du die zuständige
 
 Alle StuPos kannst du in der pdf Datei mit dem Muster StuPos_*.pdf einsehen.
 
+# FAQ
+Wie viele ECTS brauche ich für den Prüfungsabschluss?
+  Das kommt auf das Programm an, in dem du studierst. Am besten schaust du direkt in deine Studienprüfungsordnung. Dort findest du eine genaue Auflistung der für einen Abschluss benötigten Leistungen.
+
+Wie kann ich mir externe Leistungen anrechnen lassen?
+  Das kommt darauf an, wo du diese Leistungen erbracht hast (z.B. in einem Erasmus Semester, oder an einer anderen Berliner Uni). Alle Informationen zur Anerkennung findest du unter https://www.tu.berlin/studierendensekretariat/anerkennung-von-studienleistungen .
+
+Wie finde ich ein Thema für meine Abschlussarbeit (Thesis)?
+  Kontaktiere gerne einen Professor oder wissenschaftlichen Mitarbeiter eines Faches, das dir in deinem Studium viel Spaß gemacht hat. Die meisten Lehrstühle bieten in jeden Semester Abschlussarbeiten an. Viele veröffentlichen diese jedoch nicht, sodass du aktive nach einer Abschlussbetreuung fragen musst. Ihr werdet dann zusammen nach einem geeigneten Thema für dich suchen. Sonst kannst du auch nach öffentlichen Angeboten suchen https://www.theses.tu-berlin.de/de/theses .
+
+Wie läuft der Schreibprozess bei einer Abschlussarbeit ab?
+  Die genauen Details des Prozesses hängen von deinem Fachgebiet ab. Meistens beginnt die Arbeit jedoch mit einer gemeinsamen Themensuche und einer ersten Einarbeitung. Sobald du dich für das Thema entscheidest meldet ihr das Thema bei dem Prüfungsamt an. Es empfiehlt sich alle zwei oder drei Wochen mit einem Betreuer zu treffen, um Fragen klären zu können. So kann dein Betreuer auch sicher gehen, dass deine Arbeit den Vorstellungen des Fachgebietes entspricht. Nach deiner Abgabge kann es außerdem erforderlich sein, dass du deine Arbeit mit einer Präsentation vorstellst.
+
+
 # Prüfungsamt Informationen
 
 ## Hilfreiche Links

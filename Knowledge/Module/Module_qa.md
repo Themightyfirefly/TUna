@@ -12,6 +12,12 @@ Der Inhalt in dieser Datei ist per Hand verfasst und die Gültigkeit ist somit g
 Wo melde ich mich für einen Kurs an?
     Du meldest dich auf Isis für einen Kurs an. Zur Unterstützung kannst du MTS benutzen, um nach Kursinformationen zu suchen. Allerdings kannst du dich nicht auf MTS für eine Kursteilnahme anmelden.
 
+Wie melde ich mich bei Isis an?
+    Um dich bei Isis anzumelden gehst du am besten auf die Hauptseite isis.tu-berlin.de und klickst dort in der oberen rechten Ecke auf Login. Siehst du diese Option nicht, versuch das rechte Menü zu öffnen, indem du am rechten Rand des Fensters auf den Pfeil mit der Beschreibung "Blockleiste öffnen" klickst. Für die Anmeldung auf Isis benötigst du einen aktiven TU Berlin Account.
+
+Ich finde die Kurse auf meinem Dashboard nicht, was soll ich tun?
+    Das Dashboard in Isis kann sich schnell mal mit Kursen füllen und unübersichtlich werden. Es empfiehlt sich daher die wichtigen und aktuellen Kurse als Favoriten zu markieren. Wenn du im oberen Menü auf "Kurse" klickst werden diese dann als erstes angezeigt. Sonst kannst du auch immer die Suchfunktion in deinem Dashboard benutzen, um einen Kurs zu finden.
+
 Was ist der Unterschied zwischen einer Kursanmeldung und einer Prüfungsanmeldung.
     Die Kursanmeldung findet auf Isis statt. Diese dient dazu, dass die Leherenden wissen, wer in ihren Kursen ist und wem sie die Lehrmaterialien zur Verfügung stellen können. Die Anmeldung auf Isis ist zwar verpflichtend, wenn du an dem Kurs teilnehmen willst, aber man kann sich auch anmelden, ohne den Kurs mit einer Prüfung abzuschließen. Das kann zum Beispiel hilfreich sein, wenn man wissen will, wie schwer der Kurs ist, oder sich einfach für das Thema interessiert. Im Verlaufe des Semesters wird man dann über Isis aufgefordert sich in MTS für die Prüfung anzumelden. Hat man sich für die Prüfung angemeldet, muss man an dieser auch teilnehmen.
 
