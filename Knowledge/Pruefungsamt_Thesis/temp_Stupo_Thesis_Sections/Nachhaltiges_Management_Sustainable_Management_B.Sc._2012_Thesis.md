@@ -1,0 +1,25 @@
+# Nachhaltiges Management (Sustainable Management) B.Sc. 2012
+
+## Thesis-Regelungen (Studien- und Prüfungsordnung)
+
+**Quelle:** [NachhaltigesManagement_B.Sc._2012.pdf](https://www.static.tu.berlin/fileadmin/www/10000000/Studiengaenge/StuPOs/Fakultaet_VII/NachhaltigesManagement_B.Sc._2012.pdf)
+
+§ 5 - Bachelorarbeit
+
+(1) Die Bachelorarbeit ist eine Prüfungsarbeit und zugleich Teil der wissenschaftlichen Ausbildung. Sie kann auch außerhalb der Universität angefertigt werden, die Regelungen über die Betreuerin oder den Betreuer bleiben unberührt. In der Bachelorarbeit soll die Kandidatin oder der Kandidat zeigen, dass sie bzw. er in der Lage ist, innerhalb einer vorgegebenen Frist ein Problem aus seinem Studiengang selbstständig nach wissenschaftlichen Methoden zu bearbeiten. Der Aufwand für die Bachelorarbeit wird mit 12 Leistungspunkten bewertet. Eine Präsentation der Bachelorarbeit vor den Gutachterinnen und Gutachtern wird empfohlen. Die Bachelorarbeit kann nach Maßgabe von Absatz 7 auch als Gruppenarbeit ausgegeben werden.
+
+(2) Nach der Zulassung zur Bachelorprüfung kann die oder der Studierende bei der zuständigen Stelle der Zentralen Universitätsverwaltung die Ausgabe einer Bachelorarbeit beantragen. Die oder der Studierende kann eine Betreuerin oder einen Betreuer und ein Thema vorschlagen; Betreuerin oder Betreuer kann jede Prüferin und jeder Prüfer nach § 3 Abs. 1 AllgPO sein. Nach Rücksprache mit der Kandidatin oder dem Kandidaten leitet die Betreuerin oder der Betreuer den Vorschlag für das Thema an die zuständige Stelle der Zentralen Universitätsverwaltung weiter, die das Thema ausgibt und das Abgabedatum aktenkundig macht.
+
+(3) Der Prüfungsausschuss achtet auf die Gleichwertigkeit der Themen und darauf, dass die Bachelorarbeit innerhalb der Bearbeitungsfrist angefertigt werden kann.
+
+(4) Die Bearbeitungsfrist beträgt drei Monate. Der Prüfungsausschuss kann auf begründeten Antrag der oder des Studierenden nach Stellungnahme des Betreuers oder der Betreuerin die Bearbeitungszeit ausnahmsweise um bis zu drei weitere Monate verlängern. Das Thema der Bachelorarbeit kann nur einmal und nur innerhalb der ersten zwei Monate der Bearbeitungszeit zurückgegeben werden.
+
+(5) Die oder der Studierende hat bei der Abgabe der eigenständig angefertigten Bachelorarbeit schriftlich zu erklären, dass die Arbeit ohne unerlaubte fremde Hilfe angefertigt und keine anderen als die angegebenen Quellen und Hilfsmittel benutzt wurden. Entlehnungen aus anderen Arbeiten sind an den betreffenden Stellen in der Bachelorarbeit kenntlich zu machen. Ist die Bachelorarbeit mit Zustimmung der Betreuerin oder des Betreuers in einer Fremdsprache verfasst, muss sie als Anlage eine kurze Zusammenfassung in deutscher Sprache enthalten. Die fertige Arbeit ist bei der zuständigen Stelle der Zentralen Universitätsverwaltung fristgemäß und in zweifacher Ausfertigung einzureichen. Das Abgabedatum wird dort aktenkundig gemacht. Die Arbeit wird zur Begutachtung und Bewertung weitergeleitet.
+
+(6) Die Bachelorarbeit ist von zwei Gutachterinnen bzw. Gutachtern, darunter der Betreuerin oder dem Betreuer zu bewerten. Die Bewertungen sollen innerhalb von vier Wochen nach Abgabe der Arbeit der zuständigen Stelle der Zentralen Universitätsverwaltung zugehen. Bei unterschiedlichen Bewertungen der Bacheloarbeit, die mehr als eine Note voneinander abweichen, wird ein dritter Gutachter/eine dritte Gutachterin vom zuständigen Prüfungsausschuss benannt. Die Endnote ergibt sich dann aus dem arithmetischen Mittel der drei Noten. Wenn das arithmetische Mittel mit „nicht ausreichend“ benotet wird, jedoch zwei Prüferinnen oder Prüfer mit mindestens „ausreichend“ benoten, ist die Gesamtnote mit „ausreichend“ festzulegen.
+
+(7) Die Bachelorarbeit kann ein von mehreren Studierenden gemeinsam bearbeitetes Thema haben (Gruppenarbeit), wenn der als Prüfungsleistung zu bewertende Beitrag jedes Studierenden aufgrund der Angabe von objektiven Kriterien wie Abschnitten oder Seitenzahlen eindeutig abgrenzbar ist und den Anforderungen von Absatz 1 Satz 3 entspricht. Es sind mindestens zwei Betreuerinnen und Betreuer zu bestellen, darunter mindestens eine Prüfungsberechtigte oder ein Prüfungsberechtigter. Eine Gruppenarbeit ist von den Studierenden gemeinsam zu beantragen. Der Prüfungsausschuss entscheidet über den Antrag aufgrund einer gemeinsamen Stellungnahme der vorgesehenen Betreuerinnen und Betreuern. Die Erklärung gemäß Absatz 5 Satz 1 hat jede Kandidatin oder jeder Kandidat für seinen entsprechend gekennzeichneten Anteil abzugeben.
+
+(8) Nicht fristgemäß eingereichte oder mit nicht ausreichend bewertete Bachelorarbeiten können nur einmal wiederholt werden. Eine Rückgabe des Themas in der im Absatz 4 genannten Frist ist nur zulässig, wenn die Kandidatin oder der Kandidat bei seiner ersten Bachelorarbeit von dieser Möglichkeit keinen Gebrauch gemacht hatte.
+
+(9) Die bewertete Bachelorarbeit bleibt beim Institut der Betreuerin oder des Betreuers. Sie darf der Verfasserin oder dem Verfasser zeitweilig zur Einsichtnahme und zur Anfertigung von Kopien überlassen werden. Sie ist mindestens drei Jahre lang aufzubewahren.

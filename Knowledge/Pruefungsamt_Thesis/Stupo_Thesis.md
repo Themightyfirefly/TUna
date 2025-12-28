@@ -1,5 +1,3 @@
-# Arbeitslehre_M.Ed._2015_Thesis
-
 # Arbeitslehre M.Ed. 2015
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -24,8 +22,6 @@
 
 
 ---
-
-# Arbeitslehre_mit_Lehramtsoption_B.Sc._2021_Thesis
 
 # Arbeitslehre mit Lehramtsoption B.Sc. 2021
 
@@ -54,8 +50,6 @@
 
 ---
 
-# Architecture_-_Typology_M.Sc._2016_Thesis
-
 # Architecture - Typology M.Sc. 2016
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -79,8 +73,6 @@
 
 ---
 
-# Architektur_B.Sc._2018_Thesis
-
 # Architektur B.Sc. 2018
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -102,8 +94,6 @@
 
 
 ---
-
-# Architektur_M.Sc._2011_Thesis
 
 # Architektur M.Sc. 2011
 
@@ -150,8 +140,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Audiokommunikation_und_-technologie_M.Sc._2024_Thesis
-
 # Audiokommunikation und -technologie M.Sc. 2024
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -171,8 +159,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Automotive_Systems_M.Sc._2017_Thesis
 
 # Automotive Systems M.Sc. 2017
 
@@ -197,8 +183,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Bauingenieurwesen_B.Sc._2015_Thesis
-
 # Bauingenieurwesen B.Sc. 2015
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -219,8 +203,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Bauingenieurwesen_M.Sc._2017_Thesis
 
 # Bauingenieurwesen M.Sc. 2017
 
@@ -246,8 +228,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# BautechnikMathematik_als_Quereinstieg_M.Ed._2018_Thesis
 
 # Bautechnik/Mathematik als Quereinstieg M.Ed. 2018
 
@@ -276,8 +256,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Bautechnik_M.Ed._2015_Thesis
-
 # Bautechnik M.Ed. 2015
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -300,8 +278,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Bautechnik_mit_Lehramtsoption_B.Sc._2020_Thesis
 
 # Bautechnik mit Lehramtsoption B.Sc. 2020
 
@@ -330,8 +306,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Bildungswissenschaft__Organisation_und_Beratung_M.A._2014_Thesis
-
 # Bildungswissenschaft – Organisation und Beratung M.A. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -354,8 +328,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Biologische_Chemie_M.Sc._2024_Thesis
 
 # Biologische Chemie M.Sc. 2024
 
@@ -382,8 +354,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Biomedizinische_Technik_M.Sc._2018_Thesis
-
 # Biomedizinische Technik M.Sc. 2018
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -409,8 +379,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Biotechnologie_B.Sc._2014_Thesis
-
 # Biotechnologie B.Sc. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -430,8 +398,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Biotechnologie_M.Sc._2014_Thesis
-
 # Biotechnologie M.Sc. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -450,8 +416,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Brauerei-_und_Getränketechnologie_B.Sc._2022_Thesis
 
 # Brauerei- und Getränketechnologie B.Sc. 2022
 
@@ -476,8 +440,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Brauerei-_und_Getränketechnologie_M.Sc._2022_Thesis
-
 # Brauerei- und Getränketechnologie M.Sc. 2022
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -501,8 +463,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Brauwesen_B.Eng._2022_Thesis
-
 # Brauwesen B.Eng. 2022
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -523,8 +483,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Building_Sustainability_-_Management_Methods_for_Energy_Efficiency_MBA_2019_Thesis
 
 # Building Sustainability - Management Methods for Energy Efficiency MBA 2019
 
@@ -549,8 +507,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Bühnenbild_Szenischer_Raum_M.A._2014_Thesis
-
 # Bühnenbild Szenischer Raum M.A. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -569,8 +525,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Chemie_B.Sc._2019_Thesis
 
 # Chemie B.Sc. 2019
 
@@ -596,8 +550,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Chemie_M.Sc._2022_Thesis
 
 # Chemie M.Sc. 2022
 
@@ -626,8 +578,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Chemieingenieurwesen_B.Sc._2019_Thesis
-
 # Chemieingenieurwesen B.Sc. 2019
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -653,8 +603,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Chemieingenieurwesen_Chemical_Engineering_M.Sc._2014_Thesis
-
 # Chemieingenieurwesen (Chemical Engineering) M.Sc. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -673,8 +621,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Chemieingenieurwesen_M.Sc._2020_Thesis
 
 # Chemieingenieurwesen M.Sc. 2020
 
@@ -696,8 +642,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Civil_Systems_Engineering_M.Sc._2023_Thesis
 
 # Civil Systems Engineering M.Sc. 2023
 
@@ -721,8 +665,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Computational_Engineering_Science_Informationstechnik_im_Maschinenwesen_B.Sc._2018_Thesis
 
 # Computational Engineering Science (Informationstechnik im Maschinenwesen) B.Sc. 2018
 
@@ -749,8 +691,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Computational_Engineering_Science_Informationstechnik_im_Maschinenwesen_M.Sc._2018_Thesis
-
 # Computational Engineering Science (Informationstechnik im Maschinenwesen) M.Sc. 2018
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -773,8 +713,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Computational_Neuroscience_M.Sc._2005_Thesis
 
 # Computational Neuroscience M.Sc. 2005
 
@@ -807,8 +745,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Computer_Engineering_M.Sc._2015_Thesis
-
 # Computer Engineering M.Sc. 2015
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -828,8 +764,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Computer_Science_Informatik_M.Sc._2015_Thesis
-
 # Computer Science (Informatik) M.Sc. 2015
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -846,8 +780,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Deutsch_als_Fremd-_und_Fachsprache_M.A._2020_Thesis
 
 # Deutsch als Fremd- und Fachsprache M.A. 2020
 
@@ -869,8 +801,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# Economics_and_Sustainability_M.Sc._2024_Thesis
 
 # Economics and Sustainability M.Sc. 2024
 
@@ -895,8 +825,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# ElektrotechnikInformationstechnik_als_Quereinstieg_M.Ed._2016_Thesis
-
 # Elektrotechnik/Informationstechnik als Quereinstieg M.Ed. 2016
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -920,8 +848,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 
 ---
-
-# ElektrotechnikMathematik_als_Quereinstieg_M.Ed._2018_Thesis
 
 # Elektrotechnik/Mathematik als Quereinstieg M.Ed. 2018
 
@@ -950,8 +876,6 @@ Technischen Universität Berlin zur Verfügung stellt. Hat die Ve rfasserin oder
 
 ---
 
-# Elektrotechnik_B.Sc._2014_Thesis
-
 # Elektrotechnik B.Sc. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -972,8 +896,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Elektrotechnik_M.Ed._2015_Thesis
 
 # Elektrotechnik M.Ed. 2015
 
@@ -999,8 +921,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Elektrotechnik_M.Sc._2015_Thesis
-
 # Elektrotechnik M.Sc. 2015
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1019,8 +939,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Elektrotechnik_mit_Lehramtsoption_B.Sc._2015_Thesis
 
 # Elektrotechnik mit Lehramtsoption B.Sc. 2015
 
@@ -1046,8 +964,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Energie-_und_Prozesstechnik_B.Sc._2014_Thesis
-
 # Energie- und Prozesstechnik B.Sc. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1067,8 +983,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Energie-_und_Verfahrenstechnik_M.Sc._2009_Thesis
-
 # Energie- und Verfahrenstechnik M.Sc. 2009
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1084,8 +998,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Energy_Management_MBA_2018_Thesis
 
 # Energy Management MBA 2018
 
@@ -1110,8 +1022,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Environmental_Planning_M.Sc._2017_Thesis
-
 # Environmental Planning M.Sc. 2017
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1132,8 +1042,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Environmental_Science_and_Technology_M.Sc._2024_Thesis
 
 # Environmental Science and Technology M.Sc. 2024
 
@@ -1157,8 +1065,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# ErnährungLebensmittelwissenschaft_M.Ed._2015_Thesis
 
 # Ernährung/Lebensmittelwissenschaft M.Ed. 2015
 
@@ -1184,8 +1090,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# ErnährungLebensmittelwissenschaft_mit_Lehramtsoption_B.Sc._2015_Thesis
-
 # Ernährung/Lebensmittelwissenschaft mit Lehramtsoption B.Sc. 2015
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1209,8 +1113,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# European_and_International_Energy_Law_MBL_2018_Thesis
 
 # European and International Energy Law MBL 2018
 
@@ -1237,8 +1139,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Fahrzeugtechnik_M.Ed._2016_Thesis
-
 # Fahrzeugtechnik M.Ed. 2016
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1263,8 +1163,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Fahrzeugtechnik_Vehicle_Engineering_M.Sc._2017_Thesis
-
 # Fahrzeugtechnik (Vehicle Engineering) M.Sc. 2017
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1285,8 +1183,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Fahrzeugtechnik_mit_Lehramtsoption_B.Sc._2020_Thesis
 
 # Fahrzeugtechnik mit Lehramtsoption B.Sc. 2020
 
@@ -1315,8 +1211,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Gebäudeenergiesysteme_M.Sc._2024_Thesis
-
 # Gebäudeenergiesysteme M.Sc. 2024
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1338,8 +1232,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Geotechnologie_B.Sc._2019_Thesis
-
 # Geotechnologie B.Sc. 2019
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1360,8 +1252,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Geotechnologie_M.Sc._2019_Thesis
 
 # Geotechnologie M.Sc. 2019
 
@@ -1386,8 +1276,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Geschichte_und_Kultur_der_Wissenschaft_und_Technik_M.A._2014_Thesis
-
 # Geschichte und Kultur der Wissenschaft und Technik M.A. 2014
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1410,8 +1298,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Global_Production_Engineering_M.Sc._2020_Thesis
-
 # Global Production Engineering M.Sc. 2020
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1432,8 +1318,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Historische_Bauforschung_und_Denkmalpflege_M.Sc._2023_Thesis
 
 # Historische Bauforschung und Denkmalpflege M.Sc. 2023
 
@@ -1458,8 +1342,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Historische_Urbanistik__Historical_Urban_Studies_M.A._2024_Thesis
-
 # Historische Urbanistik / Historical Urban Studies M.A. 2024
 
 ## Thesis-Regelungen (Studien- und Prüfungsordnung)
@@ -1482,8 +1364,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 
 ---
-
-# Human_Factors_M.Sc._2018_Thesis
 
 # Human Factors M.Sc. 2018
 
@@ -1510,7 +1390,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# ICTInnovation_M.Sc._2016_Thesis
 
 # ICTInnovation M.Sc. 2016
 
@@ -1533,7 +1412,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Industrial_Economics_M.Sc._2018_Thesis
 
 # Industrial Economics M.Sc. 2018
 
@@ -1556,7 +1434,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Informatik_B.Sc._2014_Thesis
 
 # Informatik B.Sc. 2014
 
@@ -1577,7 +1454,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Information_System_Management_Wirtschaftsinformatik_M.Sc._2017_Thesis
 
 # Information System Management (Wirtschaftsinformatik) M.Sc. 2017
 
@@ -1600,7 +1476,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# InformationstechnikMathematik_als_Quereinstieg_M.Ed._2018_Thesis
 
 # Informationstechnik/Mathematik als Quereinstieg M.Ed. 2018
 
@@ -1629,7 +1504,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Informationstechnik_M.Ed._2016_Thesis
 
 # Informationstechnik M.Ed. 2016
 
@@ -1648,7 +1522,6 @@ von mindestens 120 LP bei der zuständigen Stelle der Zentralen Universitätsver
 
 ---
 
-# Informationstechnik_im_Maschinenwesen_-_Computational_Engineering_Science_M.Sc._2008_Thesis
 
 # Informationstechnik im Maschinenwesen - Computational Engineering Science M.Sc. 2008
 
@@ -1679,7 +1552,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Informationstechnik_mit_Lehramtsoption_B.Sc._2016_Thesis
 
 # Informationstechnik mit Lehramtsoption B.Sc. 2016
 
@@ -1698,7 +1570,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Innovation_Management,_Entrepreneurship_and_Sustainability_M.Sc._2025_Thesis
 
 # Innovation Management, Entrepreneurship and Sustainability M.Sc. 2025
 
@@ -1721,7 +1592,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Interdisziplinäre_Antisemitismusforschung_M.A._2014_Thesis
 
 # Interdisziplinäre Antisemitismusforschung M.A. 2014
 
@@ -1746,7 +1616,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Kultur_und_Technik_B.A._2014_Thesis
 
 # Kultur und Technik B.A. 2014
 
@@ -1765,7 +1634,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Kunstwissenschaft_und_Kunsttechnologie_M.A._2014_Thesis
 
 # Kunstwissenschaft und Kunsttechnologie M.A. 2014
 
@@ -1789,7 +1657,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Land-_und_Gartenbauwissenschaft_Landschaftsgestaltung_M.Ed._2015_Thesis
 
 # Land- und Gartenbauwissenschaft/Landschaftsgestaltung M.Ed. 2015
 
@@ -1816,7 +1683,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Land-_und_Gartenbauwissenschaft_Landschaftsgestaltung_mit_Lehramtsoption_B.Sc._2015_Thesis
 
 # Land- und Gartenbauwissenschaft/Landschaftsgestaltung mit Lehramtsoption B.Sc. 2015
 
@@ -1843,7 +1709,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Landschaftsarchitektur_B.Sc._2017_Thesis
 
 # Landschaftsarchitektur B.Sc. 2017
 
@@ -1868,7 +1733,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Landschaftsarchitektur_Landscape_Architecture_M.Sc._2017_Thesis
 
 # Landschaftsarchitektur (Landscape Architecture) M.Sc. 2017
 
@@ -1891,7 +1755,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Lebensmittelchemie_B.Sc._2024_Thesis
 
 # Lebensmittelchemie B.Sc. 2024
 
@@ -1916,7 +1779,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Lebensmitteltechnologie_B.Sc._2021_Thesis
 
 # Lebensmitteltechnologie B.Sc. 2021
 
@@ -1939,7 +1801,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Lebensmitteltechnologie_M.Sc._2014_Thesis
 
 # Lebensmitteltechnologie M.Sc. 2014
 
@@ -1962,7 +1823,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Luft-_und_Raumfahrttechnik_Aeronautics_and_Astronautics_M.Sc._2018_Thesis
 
 # Luft- und Raumfahrttechnik (Aeronautics and Astronautics) M.Sc. 2018
 
@@ -1985,7 +1845,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Maschinenbau_Mechanical_Engineering_B.Sc._2017_Thesis
 
 # Maschinenbau (Mechanical Engineering) B.Sc. 2017
 
@@ -2010,7 +1869,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Maschinenbau_Mechanical_Engineering_M.Sc._2017_Thesis
 
 # Maschinenbau (Mechanical Engineering) M.Sc. 2017
 
@@ -2035,7 +1893,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Materialwissenschaft_und_Werkstofftechnik_B.Sc._2022_Thesis
 
 # Materialwissenschaft und Werkstofftechnik B.Sc. 2022
 
@@ -2060,7 +1917,6 @@ IV. Schlussbestimmungen
 
 ---
 
-# Mathematik_B.Sc._2014_Thesis
 
 # Mathematik B.Sc. 2014
 
@@ -2087,7 +1943,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Mathematik_M.Sc._2014_Thesis
 
 # Mathematik M.Sc. 2014
 
@@ -2108,7 +1963,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Medieninformatik_B.Sc._2014_Thesis
 
 # Medieninformatik B.Sc. 2014
 
@@ -2129,7 +1983,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Medieninformatik_M.Sc._2017_Thesis
 
 # Medieninformatik M.Sc. 2017
 
@@ -2152,7 +2005,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Medientechnik_B.Sc._2018_Thesis
 
 # Medientechnik B.Sc. 2018
 
@@ -2177,7 +2029,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Medientechnik_M.Ed._2016_Thesis
 
 # Medientechnik M.Ed. 2016
 
@@ -2196,7 +2047,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Medientechnik_M.Sc._2022_Thesis
 
 # Medientechnik M.Sc. 2022
 
@@ -2221,7 +2071,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Medientechnik_mit_Lehramtsoption_B.Sc._2020_Thesis
 
 # Medientechnik mit Lehramtsoption B.Sc. 2020
 
@@ -2250,7 +2099,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Medienwissenschaft_M.A._2014_Thesis
 
 # Medienwissenschaft M.A. 2014
 
@@ -2268,7 +2116,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# MetalltechnikMathematik_als_Quereinstieg_M.Ed._2018_Thesis
 
 # Metalltechnik/Mathematik als Quereinstieg M.Ed. 2018
 
@@ -2297,7 +2144,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Metalltechnik_M.Ed._2015_Thesis
 
 # Metalltechnik M.Ed. 2015
 
@@ -2316,7 +2162,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Metalltechnik_mit_Lehramtsoption_B.Sc._2015_Thesis
 
 # Metalltechnik mit Lehramtsoption B.Sc. 2015
 
@@ -2335,7 +2180,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Nachhaltiges_Management_B.Sc._2016_Thesis
 
 # Nachhaltiges Management B.Sc. 2016
 
@@ -2358,7 +2202,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Nachhaltiges_Management_Sustainable_Management_B.Sc._2012_Thesis
 
 # Nachhaltiges Management (Sustainable Management) B.Sc. 2012
 
@@ -2389,7 +2232,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Naturwissenschaften_in_der_Informationsgesellschaft_B.Sc._2025_Thesis
 
 # Naturwissenschaften in der Informationsgesellschaft B.Sc. 2025
 
@@ -2412,7 +2254,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Patentingenieurwesen_M.Sc._2015_Thesis
 
 # Patentingenieurwesen M.Sc. 2015
 
@@ -2435,7 +2276,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Philosophie_des_Wissens_und_der_Wissenschaften_M.A._2014_Thesis
 
 # Philosophie des Wissens und der Wissenschaften M.A. 2014
 
@@ -2453,7 +2293,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Physik_B.Sc._2018_Thesis
 
 # Physik B.Sc. 2018
 
@@ -2480,7 +2319,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Physik_M.Sc._2018_Thesis
 
 # Physik M.Sc. 2018
 
@@ -2507,7 +2345,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Physikalische_Ingenieurwissenschaft_(Engineering_Science)_B.Sc._2020_Thesis
 
 # Physikalische Ingenieurwissenschaft (Engineering Science) B.Sc. 2020
 
@@ -2530,7 +2367,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Physikalische_Ingenieurwissenschaft_(Engineering_Science)_M.Sc._2020_Thesis
 
 # Physikalische Ingenieurwissenschaft (Engineering Science) M.Sc. 2020
 
@@ -2553,7 +2389,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Planung_und_Betrieb_im_Verkehrswesen_Transportation_Planning_and_Operation_M.Sc._2017_Thesis
 
 # Planung und Betrieb im Verkehrswesen (Transportation Planning and Operation) M.Sc. 2017
 
@@ -2574,7 +2409,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Polymer_Science_M.Sc._2024_Thesis
 
 # Polymer Science M.Sc. 2024
 
@@ -2599,7 +2433,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Process_Energy_and_Environmental_System_Engineering__Prozess-_Energie-_und_Umwelttechnik_M.Sc._2015_Thesis
 
 # Process Energy and Environmental System Engineering / Prozess-, Energie- und Umwelttechnik M.Sc. 2015
 
@@ -2620,7 +2453,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Process_Energy_and_Environmental_System_Engineering__Prozess-_Energie-_und_Umwelttechnik_PEESE_M.Sc._2022_Thesis
 
 # Process Energy and Environmental System Engineering / Prozess-, Energie- und Umwelttechnik (PEESE) M.Sc. 2022
 
@@ -2641,7 +2473,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Produktionstechnik_Production_Engineering_M.Sc._2018_Thesis
 
 # Produktionstechnik (Production Engineering) M.Sc. 2018
 
@@ -2666,7 +2497,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Real_Estate_Management_M.Sc._2015_Thesis
 
 # Real Estate Management M.Sc. 2015
 
@@ -2689,7 +2519,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Regenerative_Energiesysteme_M.Sc._2023_Thesis
 
 # Regenerative Energiesysteme M.Sc. 2023
 
@@ -2714,7 +2543,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Schiffs-_und_Meerestechnik_Naval_Architecture_and_Ocean_Engineering_M.Sc._2017_Thesis
 
 # Schiffs- und Meerestechnik (Naval Architecture and Ocean Engineering) M.Sc. 2017
 
@@ -2737,7 +2565,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Scientific_Computing_M.Sc._2021_Thesis
 
 # Scientific Computing M.Sc. 2021
 
@@ -2758,7 +2585,6 @@ Liegt ein wichtiger Grund vor, den die oder der Studierende nicht zu vertreten h
 
 ---
 
-# Soziologie_technikwissenschaftlicher_Richtung_B.A._2014_Thesis
 
 # Soziologie technikwissenschaftlicher Richtung B.A. 2014
 
@@ -2781,7 +2607,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Soziologie_technikwissenschaftlicher_Richtung_M.A._2024_Thesis
 
 # Soziologie technikwissenschaftlicher Richtung M.A. 2024
 
@@ -2802,7 +2627,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Space_Engineering_M.Sc._2019_Thesis
 
 # Space Engineering M.Sc. 2019
 
@@ -2823,7 +2647,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Sprache_und_Kommunikation_M.A._2015_Thesis
 
 # Sprache und Kommunikation M.A. 2015
 
@@ -2841,7 +2664,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Stadt-_und_Regionalplanung_B.Sc._2023_Thesis
 
 # Stadt- und Regionalplanung B.Sc. 2023
 
@@ -2866,7 +2688,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Stadt-_und_Regionalplanung_M.Sc._2023_Thesis
 
 # Stadt- und Regionalplanung M.Sc. 2023
 
@@ -2891,7 +2712,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Stadtökologie_Urban_Ecosystem_Sciences_M.Sc._2017_Thesis
 
 # Stadtökologie (Urban Ecosystem Sciences) M.Sc. 2017
 
@@ -2914,7 +2734,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Sustainable_Energy_and_Process_Engineering_SEPE_M.Sc._2023_Thesis
 
 # Sustainable Energy and Process Engineering (SEPE) M.Sc. 2023
 
@@ -2939,7 +2758,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Sustainable_Mobility_Management_MBA_2018_Thesis
 
 # Sustainable Mobility Management MBA 2018
 
@@ -2964,7 +2782,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Technische_Informatik_B.Sc._2014_Thesis
 
 # Technische Informatik B.Sc. 2014
 
@@ -2985,7 +2802,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Technischer_Umweltschutz_B.Sc._2020_Thesis
 
 # Technischer Umweltschutz B.Sc. 2020
 
@@ -3010,7 +2826,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Technischer_Umweltschutz_M.Sc._2014_Thesis
 
 # Technischer Umweltschutz M.Sc. 2014
 
@@ -3031,7 +2846,6 @@ der Betreuerin die Bearbeitungszeit einmalig um einen Monat verlängern. In beso
 
 ---
 
-# Technomathematik_B.Sc._2014_Thesis
 
 # Technomathematik B.Sc. 2014
 
@@ -3058,7 +2872,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Technomathematik_M.Sc._2014_Thesis
 
 # Technomathematik M.Sc. 2014
 
@@ -3079,7 +2892,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Theorie_und_Geschichte_der_Wissenschaft_und_Technik_M.A._2018_Thesis
 
 # Theorie und Geschichte der Wissenschaft und Technik M.A. 2018
 
@@ -3104,7 +2916,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Urban_Design_M.Sc._2014_Thesis
 
 # Urban Design M.Sc. 2014
 
@@ -3131,7 +2942,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Urban_Management_M.Sc._2015_Thesis
 
 # Urban Management M.Sc. 2015
 
@@ -3154,7 +2964,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Verkehrswesen_Transport_Systems_B.Sc._2018_Thesis
 
 # Verkehrswesen (Transport Systems) B.Sc. 2018
 
@@ -3181,7 +2990,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Volkswirtschaftslehre_B.Sc._2018_Thesis
 
 # Volkswirtschaftslehre B.Sc. 2018
 
@@ -3204,7 +3012,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Volkswirtschaftslehre_und_Nachhaltigkeit_B.Sc._2024_Thesis
 
 # Volkswirtschaftslehre und Nachhaltigkeit B.Sc. 2024
 
@@ -3227,7 +3034,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Werkstoffwissenschaften_B.Sc._2014_Thesis
 
 # Werkstoffwissenschaften B.Sc. 2014
 
@@ -3248,7 +3054,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Werkstoffwissenschaften_M.Sc._2024_Thesis
 
 # Werkstoffwissenschaften M.Sc. 2024
 
@@ -3273,7 +3078,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Wirtschaftsinformatik_B.Sc._2021_Thesis
 
 # Wirtschaftsinformatik B.Sc. 2021
 
@@ -3294,7 +3098,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Wirtschaftsingenieurwesen_Industrial_Engineering_and_Management_B.Sc._2015_Thesis
 
 # Wirtschaftsingenieurwesen (Industrial Engineering and Management) B.Sc. 2015
 
@@ -3310,7 +3113,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Wirtschaftsingenieurwesen_Industrial_Engineering_and_Management_M.Sc._2015_Thesis
 
 # Wirtschaftsingenieurwesen (Industrial Engineering and Management) M.Sc. 2015
 
@@ -3326,7 +3128,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Wirtschaftsmathematik_B.Sc._2014_Thesis
 
 # Wirtschaftsmathematik B.Sc. 2014
 
@@ -3353,7 +3154,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Wirtschaftsmathematik_M.Sc._2014_Thesis
 
 # Wirtschaftsmathematik M.Sc. 2014
 
@@ -3374,7 +3174,6 @@ Hiervon unbenommen sind inhaltliche Zwänge, die sich aus dem Themengebiet ergeb
 
 ---
 
-# Wissenschaftsmanagement_M.Sc._2019_Thesis
 
 # Wissenschaftsmanagement M.Sc. 2019
 
@@ -3403,7 +3202,6 @@ Die 30-minütige Präsentation und Diskussion mit dem*der Kandidat*in dient der 
 
 ---
 
-# Wissenschaftsmanagement_Wissenschaftsmarketing_M.Sc._2018_Thesis
 
 # Wissenschaftsmanagement/Wissenschaftsmarketing M.Sc. 2018
 
@@ -3428,7 +3226,6 @@ Die 30-minütige Präsentation und Diskussion mit dem*der Kandidat*in dient der 
 
 ---
 
-# Ökologie_und_Umweltplanung_B.Sc._2019_Thesis
 
 # Ökologie und Umweltplanung B.Sc. 2019
 
@@ -3451,7 +3248,6 @@ Die 30-minütige Präsentation und Diskussion mit dem*der Kandidat*in dient der 
 
 ---
 
-# Ökologie_und_Umweltplanung_M.Sc._2016_Thesis
 
 # Ökologie und Umweltplanung M.Sc. 2016
 
