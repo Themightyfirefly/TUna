@@ -54,7 +54,7 @@ Ab Januar 2023 sind 934 € pro Monat veranschlagt.
 Bitte reisen Sie nur an, wenn Sie absolut sicher sind, den Aufenthalt finanzieren zu können!
 
 ## Gibt es für Austauschstudierende Stipendien von der TU Berlin?
-Normalerweise werden Austauschstudierende seitens ihres Heimatlandes für eine Austauschaufenthalt gefördert. Uns stehen dafür i.d.R. leider nicht genug Mittel zur Verfügung.
+Normalerweise werden Austauschstudierende seitens ihres Heimatlandes für eine Austauschaufenthalt gefördert. Hier handelt es sich meistens um finanzielle Unterstützung, aber auch andere Angebote. Uns stehen dafür i.d.R. leider nicht genug Mittel zur Verfügung.
 
 Sie haben aber [hier](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/) die Möglichkeit sich über Stipendien-Optionen für Deutschland zu erkundigen.
 
