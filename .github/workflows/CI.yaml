@@ -1,24 +1,31 @@
 name: CI
 on:
   push:
-    branches: ['*']
-  workflow_dispatch:
+    branches: ['*'] # run the workflow whenever a push happens on any branch
+  workflow_dispatch: # allows users to manually trigger this workflow in the actions tab in GitHub
 
 jobs:
   Script_execution:
+    # run the workflow on a GitHub Server using Linux
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v5 # checks out the repository to have the latest status
 
+    # Install Python to the GitHub VM
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.13'
         cache: 'pip'
 
+    # Install all the python packages listed in the requirements.txt file
     - name: Install Python dependencies
       run: pip install -r General_Scripts/requirements.txt
 
+    # Explanation for the shell comman (bash shell, as we use Linux)
+    # we find all directories (-type d) that include the combine_ keyword (*combine_*) 
+    # and that are located within the Knowledge directory ($(pwd)/Knowledge/)
+    # Then go through all found directories and run the combine_pdfs python script for each of the directories
     - name: Find all combine_ directories and combine pdf files
       run: |
         dirs=$(find "$(pwd)" -path "$(pwd)/Knowledge/*combine_*" -type d)
@@ -27,6 +34,16 @@ jobs:
     - name: Execute StuPo crawler
       run: python Knowledge/Pruefungsamt_Thesis/Stupo_Skript/crawler.py
 
+    # Explanation on how the file gathering works via regular expressions:
+    # We look for paths to any files (-type f) that are located in the Knowledge directory (./Knowledge/*)
+    # We then pipe all the found paths into multiple sed command calls that try to replace the strings
+    # sed works like this: sed 's/find_a_part_of_the_string_matching_this_regular_expression/replace_it_with_this/'
+    # So sed 's/^.*temp.*$//' will delete everything found, as there is nothing written between the last / symbols
+    # And it will also only match full lines, as the regular expression matches the line start (^) and end ($)
+    # The same applies to the other calls, just the keywords that are used are changed.
+    #
+    # So in general, any paths with these keywords are replaced with "", effectively being deleted
+    # Lastly all of the found files are copied into a temporary chatbot_knowledge directory
     - name: Copy all relevant files into one directory
       run: |
         mkdir chatbot_knowledge
@@ -39,9 +56,10 @@ jobs:
           sed 's/^.*requirements.txt$//')
         for f in $files; do cp $f chatbot_knowledge/; done
 
+    # This chatbot_knowledge directory is then uploaded as an artifact (the one that can be downloaded in the actions tab in GitHub)
     - name: Upload all files Knowledge files
       uses: actions/upload-artifact@v4
       with:
-        name: chatbot_knowledge
+        name: chatbot_knowledge # call the artifact chatbot_knowledge
         overwrite: true
-        path: chatbot_knowledge/*
+        path: chatbot_knowledge/* # include all files in the chatbot_knowledge directory
