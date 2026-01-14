@@ -51,7 +51,7 @@ def combine_markdown_files(input_dir, output_file):
 
 if __name__ == "__main__":
     # Default paths
-    input_directory = "Knowledge/Pruefungsamt_Thesis/Stupo_Thesis_Sections"
+    input_directory = "../Knowledge/Pruefungsamt_Thesis/Stupo_Thesis_Sections"
     output_filename = "combined_thesis_sections.md"
     
     # Uncomment to use command line arguments
