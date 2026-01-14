@@ -8,9 +8,10 @@ Ein Chatbot, der bei allen Fragen rund um Studienorganisation von Studierenden a
 
 # Conversation starters (list of single lines)
 
-Wie melde ich mich für Kurse an?
-
-
+Wie bewerbe ich mich für ein Erasmus Semester?
+Wo finde ich das MAR Gebäude?
+Where can I find courses to take part in?
+What should I do if I fail an exam?
 
 # Recommended Model
 
