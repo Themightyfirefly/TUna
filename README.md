@@ -6,4 +6,5 @@ The online documentation can be found here: [https://themightyfirefly.github.io/
 
 The Chatbot is being developed as a Project within the "Introduction to Prompt Engineering" course at TU Berlin.
 
-<img width="1280" height="663" alt="image" src="https://github.com/user-attachments/assets/3e597bc7-0df9-48d8-8dee-7398648e5378" />
+<img width="1280" height="663" alt="tuna_chatbot" src="https://github.com/user-attachments/assets/46299585-a8e3-4a4d-984a-05f9b0c3789a" />
+
